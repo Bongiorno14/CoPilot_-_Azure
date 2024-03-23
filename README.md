@@ -1,5 +1,5 @@
 # UTILIZANDO COPILOT + VISION STUDIO
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Bongiorno14/Projeto_reconhecimento-_Rostos/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Bongiorno14/CoPilot_-_Azure/blob/main/LICENSE) 
 
 # Sobre o projeto
 
