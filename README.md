@@ -1,20 +1,25 @@
-# DETECÇÃO DE FACES EM UMA IMAGEM 
+# UTILIZANDO COPILOT + VISION STUDIO
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Bongiorno14/Projeto_reconhecimento-_Rostos/blob/main/LICENSE) 
 
 # Sobre o projeto
 
-Olá! Este é o meu primeiro projeto no GitHub, onde estou explorando o desenvolvimento de um sistema experimental de reconhecimento facial utilizando a ferramenta Visual Studio. Este projeto me proporciona uma oportunidade emocionante para me familiarizar com o ambiente de desenvolvimento e suas nuances.
+Dando continuidade ao aprendizado de ferramentas de AI, segue um pequeno projeto utilizando o Copilot para a criaçao de imagens e o Vision Studio para a extraçao dos textos nas imagens geradas.
 
-Ao enfrentar os desafios iniciais, estou descobrindo uma curva de aprendizado fascinante. Cada obstáculo me incentiva a aprimorar minhas habilidades de programação e a explorar novos conceitos. Através deste projeto, estou ansioso para mergulhar profundamente no mundo da visão computacional e aplicar técnicas avançadas de reconhecimento facial.
+O potencial para o desenvolvimento, seja para estrategias de aprendizando ou para a resoluçao de questoes diárias, as ferramentas trazem a tona oportunidades de reduçao de tempo, autonomia para criaçao e gestão das informações, entre outros beneficios para o usuário.
 
-Estou comprometido em compartilhar meu progresso e aprendizado neste repositório do GitHub. Além disso, estou aberto a colaborações e feedbacks de colegas desenvolvedores que possam enriquecer ainda mais meu desenvolvimento.
+Permaneço aberto para colaborações e feedbacks de colegas desenvolvedores que possam enriquecer ainda mais meu desenvolvimento.
 
 # Tecnologias utilizadas
 ## Azure
-- Vision Studio com a funçao "detect faces in an image"
+- Vision Studio com a funçao "Extract Text from a Image"
+## Copilot
+- Criaçao de imagens atraves de textos.
 
 # Aprendizado
 
-- Tratando-se do primeiro contato com a ferramenta, os pequenos detalhes foram chave para a busca para a soluçao das dificulades.
-- Fiquei impressionado com a capacidade do Machine Learning, e a velocidade da detecçao dos atribuitos em diferentes situaçoes.
-- Fiz outros testes em fotos com reconhecimento de textos e da mesma forma a ferramenta se mostrou satisfatória.
+- Primeiramente quero enfatizar a dificuldade da ferramenta Copilot na criação das imagens com texto (pode ser que eu nao tenha o entendimento correto da utilizacao da ferramenta para uma correta criaçao da mesmas).
+- Achei muito interessante a abordagem da criaçao das imagens, onde a ferramenta se mostrou muito precisa durante a geraçao das imagens (fiquei impressionado com a riqueza de detalhes que a ferramenta apresentou na criaçao de outras imagens ficticias, inclusive com cunho histórico e relato de descriçoes de personagens icônicos da História)
+- Acabei utilizando outra imagem do pinterest para uma conpraçao entre situaçoes para a extração dos textos.
+- Durante o processo de extraçao dos textos, a ferramenta é satisfatória, reconhecendo inclusive caracteres de dificil perpepção nas imagens criadas pelo Copilot.
+- Ja na imagem do Pinterest, a extração foi praticamente perfeita.
+- Certamente sao 2 poderosas ferramentas, cada uma com a sua particularidade, mas creio que nao seja a melhor combinação.
