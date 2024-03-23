@@ -1,0 +1,7306 @@
+Texto
+NUTRITIONFACTS
+COUNTINGCALORIES
+CALORIES
+CALORIESREPRESENTTHEAMOUNTOFENERGYTHATISFOUNDINFOOD.PAYATTENTIONTOHOWMANYCALORIESYOUARE
+CONSUMINGANDWHERETHOSECALORIESARECOMINGFROMBYREADINGTHENUTRITIONALLABELSONTHEFOODYOUEAT.
+SCORE:4.184KILOJOULESOFENERGY/CALORIESOURCE:NUTRIENTS(PROTEIN,FAT,CARBS,ALCOHOL]
+MACRONUTRIENTS
+PROTEIN
+PROTEINHELPSBUILD&REPAIRMUSCLETISSUESOTHATYOUCANSTAYLEANANDSTRONG.ITSPLAYSANIMPORTANTROLE
+INKEEPINGYOURBODYGROWINGANDYOURIMMUNESYSTEMSTRONG.ITCANALSOBEUSEDASASOURCEOFENERGY.
+SCORE:4CALORIES/GRAMFOUNDIN:MEATS,FISH,POULTRY,DAIRYPRODUCTS,NUTS,LEGUMES
+FATS
+THEREARETHREEMAINTYPESOFFATS:UNSATURATED,SATURATED,ANDTRANS.ALTHOUGHSATURATEDANDTRANSFATS
+AREBADFORYOU,UNSATURATEDFATSCANHELPPREVENTHEARTDISEASE.BESURETOREADNUTRITIONALLABELSI
+SCORE:9CALORIES/GRAMFOUNDIN:[UNSATURATED)OLIVE&CANOLAOIL,NUTS,AVOCADOS
+CARBOHYDRATES
+CARBSAREYOURBODY'SMAINSOURCEOFENERGY.SIMPLECARBS(LIKESUGAR)BURNUPFASTWHEREASCOMPLEXCARBS
+[LIKESTARCHES)BURNSLOWEROVERTIME,BESURETOBALANCEYOURCARBCONSUMPTIONWITHANACTIVELIFESTYLE.
+SCORE:4CALORIES/GRAMFOUNDIN:FRUITS,VEGETABLES,GRAINPRODUCTS
+DAILYFOODSERVINGS
+AGE
+SEX
+6
+6
+3-4
+1-2
+8-13
+6
+6
+3-4
+1-2
+14-18
+8
+7
+3-4
+3
+7
+6
+3-4
+2
+FRUITS/VEGETABLES
+GRAINPRODUCTS
+MILK&ALTERNATIVES
+MEAT&ALTERNATIVES
+STAYINGHYDRATEDISIMPORTANT!
+USETHECOLOROFYOURURINEASAREFERENCETOMAKESURETHATYOUARESTAYINGPROPERLYHYDRATED
+HYDRATED
+DEHYDRATED
+SEVERELYDEHYDRATED
+ThePhysicalEducator.com
+RethinkingWhatCanBeDoneInPhysicalEducation
+
+JSON
+
+[
+  {
+    "lines": [
+      {
+        "text": "NUTRITION FACTS",
+        "boundingPolygon": [
+          {
+            "x": 17,
+            "y": 13
+          },
+          {
+            "x": 469,
+            "y": 14
+          },
+          {
+            "x": 469,
+            "y": 81
+          },
+          {
+            "x": 17,
+            "y": 80
+          }
+        ],
+        "words": [
+          {
+            "text": "NUTRITION",
+            "boundingPolygon": [
+              {
+                "x": 18,
+                "y": 14
+              },
+              {
+                "x": 285,
+                "y": 15
+              },
+              {
+                "x": 285,
+                "y": 80
+              },
+              {
+                "x": 18,
+                "y": 81
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "FACTS",
+            "boundingPolygon": [
+              {
+                "x": 307,
+                "y": 15
+              },
+              {
+                "x": 469,
+                "y": 18
+              },
+              {
+                "x": 469,
+                "y": 79
+              },
+              {
+                "x": 307,
+                "y": 80
+              }
+            ],
+            "confidence": 0.998
+          }
+        ]
+      },
+      {
+        "text": "COUNTING CALORIES",
+        "boundingPolygon": [
+          {
+            "x": 48,
+            "y": 130
+          },
+          {
+            "x": 510,
+            "y": 130
+          },
+          {
+            "x": 510,
+            "y": 168
+          },
+          {
+            "x": 48,
+            "y": 168
+          }
+        ],
+        "words": [
+          {
+            "text": "COUNTING",
+            "boundingPolygon": [
+              {
+                "x": 49,
+                "y": 132
+              },
+              {
+                "x": 267,
+                "y": 130
+              },
+              {
+                "x": 266,
+                "y": 169
+              },
+              {
+                "x": 48,
+                "y": 168
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "CALORIES",
+            "boundingPolygon": [
+              {
+                "x": 297,
+                "y": 130
+              },
+              {
+                "x": 511,
+                "y": 131
+              },
+              {
+                "x": 510,
+                "y": 169
+              },
+              {
+                "x": 297,
+                "y": 169
+              }
+            ],
+            "confidence": 0.991
+          }
+        ]
+      },
+      {
+        "text": "CALORIES",
+        "boundingPolygon": [
+          {
+            "x": 122,
+            "y": 178
+          },
+          {
+            "x": 173,
+            "y": 178
+          },
+          {
+            "x": 173,
+            "y": 192
+          },
+          {
+            "x": 122,
+            "y": 192
+          }
+        ],
+        "words": [
+          {
+            "text": "CALORIES",
+            "boundingPolygon": [
+              {
+                "x": 122,
+                "y": 178
+              },
+              {
+                "x": 172,
+                "y": 178
+              },
+              {
+                "x": 171,
+                "y": 193
+              },
+              {
+                "x": 122,
+                "y": 192
+              }
+            ],
+            "confidence": 0.993
+          }
+        ]
+      },
+      {
+        "text": "CALORIES REPRESENT THE AMOUNT OF ENERGY THAT IS FOUND IN FOOD. PAY ATTENTION TO HOW MANY CALORIES YOU ARE",
+        "boundingPolygon": [
+          {
+            "x": 122,
+            "y": 194
+          },
+          {
+            "x": 521,
+            "y": 194
+          },
+          {
+            "x": 521,
+            "y": 208
+          },
+          {
+            "x": 122,
+            "y": 208
+          }
+        ],
+        "words": [
+          {
+            "text": "CALORIES",
+            "boundingPolygon": [
+              {
+                "x": 123,
+                "y": 195
+              },
+              {
+                "x": 153,
+                "y": 195
+              },
+              {
+                "x": 152,
+                "y": 209
+              },
+              {
+                "x": 122,
+                "y": 209
+              }
+            ],
+            "confidence": 0.964
+          },
+          {
+            "text": "REPRESENT",
+            "boundingPolygon": [
+              {
+                "x": 155,
+                "y": 195
+              },
+              {
+                "x": 193,
+                "y": 196
+              },
+              {
+                "x": 192,
+                "y": 209
+              },
+              {
+                "x": 155,
+                "y": 209
+              }
+            ],
+            "confidence": 0.989
+          },
+          {
+            "text": "THE",
+            "boundingPolygon": [
+              {
+                "x": 195,
+                "y": 196
+              },
+              {
+                "x": 207,
+                "y": 196
+              },
+              {
+                "x": 207,
+                "y": 209
+              },
+              {
+                "x": 195,
+                "y": 209
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "AMOUNT",
+            "boundingPolygon": [
+              {
+                "x": 210,
+                "y": 196
+              },
+              {
+                "x": 236,
+                "y": 196
+              },
+              {
+                "x": 236,
+                "y": 209
+              },
+              {
+                "x": 209,
+                "y": 209
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "OF",
+            "boundingPolygon": [
+              {
+                "x": 239,
+                "y": 196
+              },
+              {
+                "x": 247,
+                "y": 196
+              },
+              {
+                "x": 247,
+                "y": 209
+              },
+              {
+                "x": 239,
+                "y": 209
+              }
+            ],
+            "confidence": 0.997
+          },
+          {
+            "text": "ENERGY",
+            "boundingPolygon": [
+              {
+                "x": 250,
+                "y": 196
+              },
+              {
+                "x": 274,
+                "y": 196
+              },
+              {
+                "x": 274,
+                "y": 209
+              },
+              {
+                "x": 249,
+                "y": 209
+              }
+            ],
+            "confidence": 0.668
+          },
+          {
+            "text": "THAT",
+            "boundingPolygon": [
+              {
+                "x": 277,
+                "y": 196
+              },
+              {
+                "x": 292,
+                "y": 196
+              },
+              {
+                "x": 292,
+                "y": 209
+              },
+              {
+                "x": 277,
+                "y": 209
+              }
+            ],
+            "confidence": 0.99
+          },
+          {
+            "text": "IS",
+            "boundingPolygon": [
+              {
+                "x": 295,
+                "y": 196
+              },
+              {
+                "x": 300,
+                "y": 196
+              },
+              {
+                "x": 300,
+                "y": 209
+              },
+              {
+                "x": 295,
+                "y": 209
+              }
+            ],
+            "confidence": 0.987
+          },
+          {
+            "text": "FOUND",
+            "boundingPolygon": [
+              {
+                "x": 303,
+                "y": 196
+              },
+              {
+                "x": 324,
+                "y": 196
+              },
+              {
+                "x": 324,
+                "y": 209
+              },
+              {
+                "x": 303,
+                "y": 209
+              }
+            ],
+            "confidence": 0.991
+          },
+          {
+            "text": "IN",
+            "boundingPolygon": [
+              {
+                "x": 327,
+                "y": 196
+              },
+              {
+                "x": 332,
+                "y": 195
+              },
+              {
+                "x": 332,
+                "y": 209
+              },
+              {
+                "x": 327,
+                "y": 209
+              }
+            ],
+            "confidence": 0.99
+          },
+          {
+            "text": "FOOD.",
+            "boundingPolygon": [
+              {
+                "x": 335,
+                "y": 195
+              },
+              {
+                "x": 353,
+                "y": 195
+              },
+              {
+                "x": 353,
+                "y": 209
+              },
+              {
+                "x": 335,
+                "y": 209
+              }
+            ],
+            "confidence": 0.676
+          },
+          {
+            "text": "PAY",
+            "boundingPolygon": [
+              {
+                "x": 356,
+                "y": 195
+              },
+              {
+                "x": 367,
+                "y": 195
+              },
+              {
+                "x": 368,
+                "y": 209
+              },
+              {
+                "x": 356,
+                "y": 209
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "ATTENTION",
+            "boundingPolygon": [
+              {
+                "x": 370,
+                "y": 195
+              },
+              {
+                "x": 406,
+                "y": 195
+              },
+              {
+                "x": 406,
+                "y": 209
+              },
+              {
+                "x": 370,
+                "y": 209
+              }
+            ],
+            "confidence": 0.958
+          },
+          {
+            "text": "TO",
+            "boundingPolygon": [
+              {
+                "x": 408,
+                "y": 195
+              },
+              {
+                "x": 415,
+                "y": 195
+              },
+              {
+                "x": 415,
+                "y": 209
+              },
+              {
+                "x": 409,
+                "y": 209
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "HOW",
+            "boundingPolygon": [
+              {
+                "x": 417,
+                "y": 195
+              },
+              {
+                "x": 432,
+                "y": 195
+              },
+              {
+                "x": 433,
+                "y": 209
+              },
+              {
+                "x": 417,
+                "y": 209
+              }
+            ],
+            "confidence": 0.997
+          },
+          {
+            "text": "MANY",
+            "boundingPolygon": [
+              {
+                "x": 435,
+                "y": 195
+              },
+              {
+                "x": 454,
+                "y": 195
+              },
+              {
+                "x": 454,
+                "y": 209
+              },
+              {
+                "x": 435,
+                "y": 209
+              }
+            ],
+            "confidence": 0.981
+          },
+          {
+            "text": "CALORIES",
+            "boundingPolygon": [
+              {
+                "x": 456,
+                "y": 195
+              },
+              {
+                "x": 487,
+                "y": 195
+              },
+              {
+                "x": 488,
+                "y": 209
+              },
+              {
+                "x": 457,
+                "y": 209
+              }
+            ],
+            "confidence": 0.936
+          },
+          {
+            "text": "YOU",
+            "boundingPolygon": [
+              {
+                "x": 490,
+                "y": 195
+              },
+              {
+                "x": 502,
+                "y": 195
+              },
+              {
+                "x": 503,
+                "y": 209
+              },
+              {
+                "x": 490,
+                "y": 209
+              }
+            ],
+            "confidence": 0.987
+          },
+          {
+            "text": "ARE",
+            "boundingPolygon": [
+              {
+                "x": 505,
+                "y": 195
+              },
+              {
+                "x": 521,
+                "y": 195
+              },
+              {
+                "x": 521,
+                "y": 209
+              },
+              {
+                "x": 505,
+                "y": 209
+              }
+            ],
+            "confidence": 0.989
+          }
+        ]
+      },
+      {
+        "text": "CONSUMING AND WHERE THOSE CALORIES ARE COMING FROM BY READING THE NUTRITIONAL LABELS ON THE FOOD YOU EAT.",
+        "boundingPolygon": [
+          {
+            "x": 121,
+            "y": 208
+          },
+          {
+            "x": 523,
+            "y": 208
+          },
+          {
+            "x": 523,
+            "y": 222
+          },
+          {
+            "x": 121,
+            "y": 222
+          }
+        ],
+        "words": [
+          {
+            "text": "CONSUMING",
+            "boundingPolygon": [
+              {
+                "x": 121,
+                "y": 209
+              },
+              {
+                "x": 160,
+                "y": 209
+              },
+              {
+                "x": 160,
+                "y": 222
+              },
+              {
+                "x": 121,
+                "y": 222
+              }
+            ],
+            "confidence": 0.99
+          },
+          {
+            "text": "AND",
+            "boundingPolygon": [
+              {
+                "x": 163,
+                "y": 209
+              },
+              {
+                "x": 174,
+                "y": 209
+              },
+              {
+                "x": 174,
+                "y": 222
+              },
+              {
+                "x": 163,
+                "y": 222
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "WHERE",
+            "boundingPolygon": [
+              {
+                "x": 177,
+                "y": 209
+              },
+              {
+                "x": 201,
+                "y": 209
+              },
+              {
+                "x": 201,
+                "y": 222
+              },
+              {
+                "x": 177,
+                "y": 222
+              }
+            ],
+            "confidence": 0.99
+          },
+          {
+            "text": "THOSE",
+            "boundingPolygon": [
+              {
+                "x": 204,
+                "y": 209
+              },
+              {
+                "x": 223,
+                "y": 209
+              },
+              {
+                "x": 223,
+                "y": 222
+              },
+              {
+                "x": 204,
+                "y": 222
+              }
+            ],
+            "confidence": 0.991
+          },
+          {
+            "text": "CALORIES",
+            "boundingPolygon": [
+              {
+                "x": 226,
+                "y": 209
+              },
+              {
+                "x": 257,
+                "y": 208
+              },
+              {
+                "x": 256,
+                "y": 222
+              },
+              {
+                "x": 225,
+                "y": 222
+              }
+            ],
+            "confidence": 0.958
+          },
+          {
+            "text": "ARE",
+            "boundingPolygon": [
+              {
+                "x": 259,
+                "y": 208
+              },
+              {
+                "x": 271,
+                "y": 208
+              },
+              {
+                "x": 271,
+                "y": 223
+              },
+              {
+                "x": 259,
+                "y": 222
+              }
+            ],
+            "confidence": 0.981
+          },
+          {
+            "text": "COMING",
+            "boundingPolygon": [
+              {
+                "x": 274,
+                "y": 208
+              },
+              {
+                "x": 299,
+                "y": 208
+              },
+              {
+                "x": 298,
+                "y": 223
+              },
+              {
+                "x": 274,
+                "y": 223
+              }
+            ],
+            "confidence": 0.989
+          },
+          {
+            "text": "FROM",
+            "boundingPolygon": [
+              {
+                "x": 301,
+                "y": 208
+              },
+              {
+                "x": 319,
+                "y": 208
+              },
+              {
+                "x": 319,
+                "y": 223
+              },
+              {
+                "x": 301,
+                "y": 223
+              }
+            ],
+            "confidence": 0.979
+          },
+          {
+            "text": "BY",
+            "boundingPolygon": [
+              {
+                "x": 322,
+                "y": 208
+              },
+              {
+                "x": 330,
+                "y": 208
+              },
+              {
+                "x": 329,
+                "y": 223
+              },
+              {
+                "x": 321,
+                "y": 223
+              }
+            ],
+            "confidence": 0.99
+          },
+          {
+            "text": "READING",
+            "boundingPolygon": [
+              {
+                "x": 332,
+                "y": 208
+              },
+              {
+                "x": 361,
+                "y": 208
+              },
+              {
+                "x": 361,
+                "y": 223
+              },
+              {
+                "x": 332,
+                "y": 223
+              }
+            ],
+            "confidence": 0.983
+          },
+          {
+            "text": "THE",
+            "boundingPolygon": [
+              {
+                "x": 364,
+                "y": 208
+              },
+              {
+                "x": 375,
+                "y": 208
+              },
+              {
+                "x": 374,
+                "y": 223
+              },
+              {
+                "x": 363,
+                "y": 223
+              }
+            ],
+            "confidence": 0.997
+          },
+          {
+            "text": "NUTRITIONAL",
+            "boundingPolygon": [
+              {
+                "x": 377,
+                "y": 208
+              },
+              {
+                "x": 419,
+                "y": 208
+              },
+              {
+                "x": 419,
+                "y": 223
+              },
+              {
+                "x": 377,
+                "y": 223
+              }
+            ],
+            "confidence": 0.831
+          },
+          {
+            "text": "LABELS",
+            "boundingPolygon": [
+              {
+                "x": 422,
+                "y": 208
+              },
+              {
+                "x": 446,
+                "y": 208
+              },
+              {
+                "x": 445,
+                "y": 223
+              },
+              {
+                "x": 422,
+                "y": 223
+              }
+            ],
+            "confidence": 0.989
+          },
+          {
+            "text": "ON",
+            "boundingPolygon": [
+              {
+                "x": 449,
+                "y": 208
+              },
+              {
+                "x": 458,
+                "y": 208
+              },
+              {
+                "x": 457,
+                "y": 223
+              },
+              {
+                "x": 448,
+                "y": 223
+              }
+            ],
+            "confidence": 0.995
+          },
+          {
+            "text": "THE",
+            "boundingPolygon": [
+              {
+                "x": 460,
+                "y": 208
+              },
+              {
+                "x": 471,
+                "y": 208
+              },
+              {
+                "x": 471,
+                "y": 223
+              },
+              {
+                "x": 460,
+                "y": 223
+              }
+            ],
+            "confidence": 0.997
+          },
+          {
+            "text": "FOOD",
+            "boundingPolygon": [
+              {
+                "x": 474,
+                "y": 208
+              },
+              {
+                "x": 491,
+                "y": 208
+              },
+              {
+                "x": 490,
+                "y": 223
+              },
+              {
+                "x": 474,
+                "y": 223
+              }
+            ],
+            "confidence": 0.783
+          },
+          {
+            "text": "YOU",
+            "boundingPolygon": [
+              {
+                "x": 493,
+                "y": 208
+              },
+              {
+                "x": 505,
+                "y": 208
+              },
+              {
+                "x": 505,
+                "y": 223
+              },
+              {
+                "x": 493,
+                "y": 223
+              }
+            ],
+            "confidence": 0.99
+          },
+          {
+            "text": "EAT.",
+            "boundingPolygon": [
+              {
+                "x": 508,
+                "y": 208
+              },
+              {
+                "x": 523,
+                "y": 208
+              },
+              {
+                "x": 523,
+                "y": 223
+              },
+              {
+                "x": 507,
+                "y": 223
+              }
+            ],
+            "confidence": 0.863
+          }
+        ]
+      },
+      {
+        "text": "SCORE: 4.184 KILOJOULES OF ENERGY / CALORIE SOURCE: NUTRIENTS (PROTEIN, FAT, CARBS, ALCOHOL]",
+        "boundingPolygon": [
+          {
+            "x": 121,
+            "y": 223
+          },
+          {
+            "x": 525,
+            "y": 223
+          },
+          {
+            "x": 525,
+            "y": 237
+          },
+          {
+            "x": 121,
+            "y": 237
+          }
+        ],
+        "words": [
+          {
+            "text": "SCORE:",
+            "boundingPolygon": [
+              {
+                "x": 122,
+                "y": 224
+              },
+              {
+                "x": 149,
+                "y": 224
+              },
+              {
+                "x": 149,
+                "y": 237
+              },
+              {
+                "x": 122,
+                "y": 237
+              }
+            ],
+            "confidence": 0.99
+          },
+          {
+            "text": "4.184",
+            "boundingPolygon": [
+              {
+                "x": 152,
+                "y": 224
+              },
+              {
+                "x": 173,
+                "y": 224
+              },
+              {
+                "x": 172,
+                "y": 237
+              },
+              {
+                "x": 151,
+                "y": 237
+              }
+            ],
+            "confidence": 0.958
+          },
+          {
+            "text": "KILOJOULES",
+            "boundingPolygon": [
+              {
+                "x": 176,
+                "y": 224
+              },
+              {
+                "x": 222,
+                "y": 224
+              },
+              {
+                "x": 221,
+                "y": 238
+              },
+              {
+                "x": 175,
+                "y": 237
+              }
+            ],
+            "confidence": 0.959
+          },
+          {
+            "text": "OF",
+            "boundingPolygon": [
+              {
+                "x": 224,
+                "y": 224
+              },
+              {
+                "x": 234,
+                "y": 224
+              },
+              {
+                "x": 233,
+                "y": 238
+              },
+              {
+                "x": 224,
+                "y": 238
+              }
+            ],
+            "confidence": 0.995
+          },
+          {
+            "text": "ENERGY",
+            "boundingPolygon": [
+              {
+                "x": 236,
+                "y": 224
+              },
+              {
+                "x": 266,
+                "y": 224
+              },
+              {
+                "x": 266,
+                "y": 238
+              },
+              {
+                "x": 236,
+                "y": 238
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "/",
+            "boundingPolygon": [
+              {
+                "x": 269,
+                "y": 224
+              },
+              {
+                "x": 272,
+                "y": 224
+              },
+              {
+                "x": 272,
+                "y": 238
+              },
+              {
+                "x": 268,
+                "y": 238
+              }
+            ],
+            "confidence": 0.959
+          },
+          {
+            "text": "CALORIE",
+            "boundingPolygon": [
+              {
+                "x": 275,
+                "y": 224
+              },
+              {
+                "x": 310,
+                "y": 224
+              },
+              {
+                "x": 310,
+                "y": 238
+              },
+              {
+                "x": 275,
+                "y": 238
+              }
+            ],
+            "confidence": 0.981
+          },
+          {
+            "text": "SOURCE:",
+            "boundingPolygon": [
+              {
+                "x": 317,
+                "y": 224
+              },
+              {
+                "x": 349,
+                "y": 224
+              },
+              {
+                "x": 348,
+                "y": 238
+              },
+              {
+                "x": 317,
+                "y": 238
+              }
+            ],
+            "confidence": 0.958
+          },
+          {
+            "text": "NUTRIENTS",
+            "boundingPolygon": [
+              {
+                "x": 351,
+                "y": 224
+              },
+              {
+                "x": 394,
+                "y": 223
+              },
+              {
+                "x": 394,
+                "y": 238
+              },
+              {
+                "x": 351,
+                "y": 238
+              }
+            ],
+            "confidence": 0.972
+          },
+          {
+            "text": "(PROTEIN,",
+            "boundingPolygon": [
+              {
+                "x": 396,
+                "y": 223
+              },
+              {
+                "x": 433,
+                "y": 223
+              },
+              {
+                "x": 433,
+                "y": 238
+              },
+              {
+                "x": 396,
+                "y": 238
+              }
+            ],
+            "confidence": 0.602
+          },
+          {
+            "text": "FAT,",
+            "boundingPolygon": [
+              {
+                "x": 436,
+                "y": 223
+              },
+              {
+                "x": 451,
+                "y": 223
+              },
+              {
+                "x": 451,
+                "y": 238
+              },
+              {
+                "x": 436,
+                "y": 238
+              }
+            ],
+            "confidence": 0.959
+          },
+          {
+            "text": "CARBS,",
+            "boundingPolygon": [
+              {
+                "x": 454,
+                "y": 223
+              },
+              {
+                "x": 481,
+                "y": 223
+              },
+              {
+                "x": 481,
+                "y": 238
+              },
+              {
+                "x": 453,
+                "y": 238
+              }
+            ],
+            "confidence": 0.932
+          },
+          {
+            "text": "ALCOHOL]",
+            "boundingPolygon": [
+              {
+                "x": 484,
+                "y": 223
+              },
+              {
+                "x": 524,
+                "y": 223
+              },
+              {
+                "x": 524,
+                "y": 238
+              },
+              {
+                "x": 484,
+                "y": 238
+              }
+            ],
+            "confidence": 0.64
+          }
+        ]
+      },
+      {
+        "text": "MACRONUTRIENTS",
+        "boundingPolygon": [
+          {
+            "x": 47,
+            "y": 256
+          },
+          {
+            "x": 512,
+            "y": 256
+          },
+          {
+            "x": 512,
+            "y": 295
+          },
+          {
+            "x": 47,
+            "y": 296
+          }
+        ],
+        "words": [
+          {
+            "text": "MACRONUTRIENTS",
+            "boundingPolygon": [
+              {
+                "x": 49,
+                "y": 259
+              },
+              {
+                "x": 512,
+                "y": 258
+              },
+              {
+                "x": 511,
+                "y": 296
+              },
+              {
+                "x": 48,
+                "y": 295
+              }
+            ],
+            "confidence": 0.975
+          }
+        ]
+      },
+      {
+        "text": "PROTEIN",
+        "boundingPolygon": [
+          {
+            "x": 123,
+            "y": 303
+          },
+          {
+            "x": 169,
+            "y": 303
+          },
+          {
+            "x": 169,
+            "y": 318
+          },
+          {
+            "x": 123,
+            "y": 318
+          }
+        ],
+        "words": [
+          {
+            "text": "PROTEIN",
+            "boundingPolygon": [
+              {
+                "x": 124,
+                "y": 303
+              },
+              {
+                "x": 166,
+                "y": 303
+              },
+              {
+                "x": 165,
+                "y": 319
+              },
+              {
+                "x": 124,
+                "y": 318
+              }
+            ],
+            "confidence": 0.993
+          }
+        ]
+      },
+      {
+        "text": "PROTEIN HELPS BUILD & REPAIR MUSCLE TISSUE SO THAT YOU CAN STAY LEAN AND STRONG. ITS PLAYS AN IMPORTANT ROLE",
+        "boundingPolygon": [
+          {
+            "x": 122,
+            "y": 320
+          },
+          {
+            "x": 524,
+            "y": 320
+          },
+          {
+            "x": 524,
+            "y": 333
+          },
+          {
+            "x": 122,
+            "y": 333
+          }
+        ],
+        "words": [
+          {
+            "text": "PROTEIN",
+            "boundingPolygon": [
+              {
+                "x": 123,
+                "y": 321
+              },
+              {
+                "x": 149,
+                "y": 321
+              },
+              {
+                "x": 149,
+                "y": 333
+              },
+              {
+                "x": 123,
+                "y": 333
+              }
+            ],
+            "confidence": 0.98
+          },
+          {
+            "text": "HELPS",
+            "boundingPolygon": [
+              {
+                "x": 152,
+                "y": 321
+              },
+              {
+                "x": 172,
+                "y": 321
+              },
+              {
+                "x": 172,
+                "y": 333
+              },
+              {
+                "x": 152,
+                "y": 333
+              }
+            ],
+            "confidence": 0.99
+          },
+          {
+            "text": "BUILD",
+            "boundingPolygon": [
+              {
+                "x": 175,
+                "y": 321
+              },
+              {
+                "x": 193,
+                "y": 321
+              },
+              {
+                "x": 193,
+                "y": 333
+              },
+              {
+                "x": 175,
+                "y": 333
+              }
+            ],
+            "confidence": 0.983
+          },
+          {
+            "text": "&",
+            "boundingPolygon": [
+              {
+                "x": 196,
+                "y": 321
+              },
+              {
+                "x": 200,
+                "y": 321
+              },
+              {
+                "x": 200,
+                "y": 333
+              },
+              {
+                "x": 195,
+                "y": 333
+              }
+            ],
+            "confidence": 0.958
+          },
+          {
+            "text": "REPAIR",
+            "boundingPolygon": [
+              {
+                "x": 202,
+                "y": 321
+              },
+              {
+                "x": 225,
+                "y": 320
+              },
+              {
+                "x": 224,
+                "y": 333
+              },
+              {
+                "x": 202,
+                "y": 333
+              }
+            ],
+            "confidence": 0.958
+          },
+          {
+            "text": "MUSCLE",
+            "boundingPolygon": [
+              {
+                "x": 227,
+                "y": 320
+              },
+              {
+                "x": 254,
+                "y": 320
+              },
+              {
+                "x": 253,
+                "y": 333
+              },
+              {
+                "x": 227,
+                "y": 333
+              }
+            ],
+            "confidence": 0.99
+          },
+          {
+            "text": "TISSUE",
+            "boundingPolygon": [
+              {
+                "x": 256,
+                "y": 320
+              },
+              {
+                "x": 278,
+                "y": 320
+              },
+              {
+                "x": 278,
+                "y": 334
+              },
+              {
+                "x": 256,
+                "y": 333
+              }
+            ],
+            "confidence": 0.987
+          },
+          {
+            "text": "SO",
+            "boundingPolygon": [
+              {
+                "x": 281,
+                "y": 320
+              },
+              {
+                "x": 289,
+                "y": 320
+              },
+              {
+                "x": 288,
+                "y": 334
+              },
+              {
+                "x": 281,
+                "y": 334
+              }
+            ],
+            "confidence": 0.94
+          },
+          {
+            "text": "THAT",
+            "boundingPolygon": [
+              {
+                "x": 291,
+                "y": 320
+              },
+              {
+                "x": 306,
+                "y": 320
+              },
+              {
+                "x": 306,
+                "y": 334
+              },
+              {
+                "x": 291,
+                "y": 334
+              }
+            ],
+            "confidence": 0.988
+          },
+          {
+            "text": "YOU",
+            "boundingPolygon": [
+              {
+                "x": 309,
+                "y": 320
+              },
+              {
+                "x": 321,
+                "y": 320
+              },
+              {
+                "x": 321,
+                "y": 334
+              },
+              {
+                "x": 309,
+                "y": 334
+              }
+            ],
+            "confidence": 0.977
+          },
+          {
+            "text": "CAN",
+            "boundingPolygon": [
+              {
+                "x": 324,
+                "y": 320
+              },
+              {
+                "x": 337,
+                "y": 320
+              },
+              {
+                "x": 337,
+                "y": 334
+              },
+              {
+                "x": 323,
+                "y": 334
+              }
+            ],
+            "confidence": 0.987
+          },
+          {
+            "text": "STAY",
+            "boundingPolygon": [
+              {
+                "x": 340,
+                "y": 320
+              },
+              {
+                "x": 354,
+                "y": 320
+              },
+              {
+                "x": 354,
+                "y": 334
+              },
+              {
+                "x": 339,
+                "y": 334
+              }
+            ],
+            "confidence": 0.979
+          },
+          {
+            "text": "LEAN",
+            "boundingPolygon": [
+              {
+                "x": 357,
+                "y": 320
+              },
+              {
+                "x": 374,
+                "y": 320
+              },
+              {
+                "x": 374,
+                "y": 334
+              },
+              {
+                "x": 357,
+                "y": 334
+              }
+            ],
+            "confidence": 0.975
+          },
+          {
+            "text": "AND",
+            "boundingPolygon": [
+              {
+                "x": 376,
+                "y": 320
+              },
+              {
+                "x": 388,
+                "y": 320
+              },
+              {
+                "x": 388,
+                "y": 334
+              },
+              {
+                "x": 376,
+                "y": 334
+              }
+            ],
+            "confidence": 0.989
+          },
+          {
+            "text": "STRONG.",
+            "boundingPolygon": [
+              {
+                "x": 391,
+                "y": 320
+              },
+              {
+                "x": 418,
+                "y": 320
+              },
+              {
+                "x": 418,
+                "y": 334
+              },
+              {
+                "x": 391,
+                "y": 334
+              }
+            ],
+            "confidence": 0.691
+          },
+          {
+            "text": "ITS",
+            "boundingPolygon": [
+              {
+                "x": 421,
+                "y": 320
+              },
+              {
+                "x": 430,
+                "y": 320
+              },
+              {
+                "x": 430,
+                "y": 334
+              },
+              {
+                "x": 420,
+                "y": 334
+              }
+            ],
+            "confidence": 0.977
+          },
+          {
+            "text": "PLAYS",
+            "boundingPolygon": [
+              {
+                "x": 433,
+                "y": 320
+              },
+              {
+                "x": 452,
+                "y": 320
+              },
+              {
+                "x": 452,
+                "y": 334
+              },
+              {
+                "x": 432,
+                "y": 334
+              }
+            ],
+            "confidence": 0.989
+          },
+          {
+            "text": "AN",
+            "boundingPolygon": [
+              {
+                "x": 455,
+                "y": 320
+              },
+              {
+                "x": 463,
+                "y": 320
+              },
+              {
+                "x": 462,
+                "y": 334
+              },
+              {
+                "x": 455,
+                "y": 334
+              }
+            ],
+            "confidence": 0.95
+          },
+          {
+            "text": "IMPORTANT",
+            "boundingPolygon": [
+              {
+                "x": 465,
+                "y": 320
+              },
+              {
+                "x": 503,
+                "y": 320
+              },
+              {
+                "x": 502,
+                "y": 333
+              },
+              {
+                "x": 465,
+                "y": 334
+              }
+            ],
+            "confidence": 0.957
+          },
+          {
+            "text": "ROLE",
+            "boundingPolygon": [
+              {
+                "x": 505,
+                "y": 320
+              },
+              {
+                "x": 524,
+                "y": 320
+              },
+              {
+                "x": 524,
+                "y": 333
+              },
+              {
+                "x": 505,
+                "y": 333
+              }
+            ],
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "text": "IN KEEPING YOUR BODY GROWING AND YOUR IMMUNE SYSTEM STRONG. IT CAN ALSO BE USED AS A SOURCE OF ENERGY.",
+        "boundingPolygon": [
+          {
+            "x": 122,
+            "y": 334
+          },
+          {
+            "x": 507,
+            "y": 334
+          },
+          {
+            "x": 507,
+            "y": 347
+          },
+          {
+            "x": 122,
+            "y": 347
+          }
+        ],
+        "words": [
+          {
+            "text": "IN",
+            "boundingPolygon": [
+              {
+                "x": 123,
+                "y": 335
+              },
+              {
+                "x": 128,
+                "y": 335
+              },
+              {
+                "x": 128,
+                "y": 347
+              },
+              {
+                "x": 123,
+                "y": 347
+              }
+            ],
+            "confidence": 0.955
+          },
+          {
+            "text": "KEEPING",
+            "boundingPolygon": [
+              {
+                "x": 131,
+                "y": 335
+              },
+              {
+                "x": 159,
+                "y": 335
+              },
+              {
+                "x": 159,
+                "y": 347
+              },
+              {
+                "x": 131,
+                "y": 347
+              }
+            ],
+            "confidence": 0.986
+          },
+          {
+            "text": "YOUR",
+            "boundingPolygon": [
+              {
+                "x": 161,
+                "y": 335
+              },
+              {
+                "x": 178,
+                "y": 335
+              },
+              {
+                "x": 178,
+                "y": 347
+              },
+              {
+                "x": 161,
+                "y": 347
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "BODY",
+            "boundingPolygon": [
+              {
+                "x": 180,
+                "y": 335
+              },
+              {
+                "x": 197,
+                "y": 335
+              },
+              {
+                "x": 197,
+                "y": 347
+              },
+              {
+                "x": 180,
+                "y": 347
+              }
+            ],
+            "confidence": 0.596
+          },
+          {
+            "text": "GROWING",
+            "boundingPolygon": [
+              {
+                "x": 199,
+                "y": 335
+              },
+              {
+                "x": 230,
+                "y": 335
+              },
+              {
+                "x": 230,
+                "y": 348
+              },
+              {
+                "x": 199,
+                "y": 347
+              }
+            ],
+            "confidence": 0.983
+          },
+          {
+            "text": "AND",
+            "boundingPolygon": [
+              {
+                "x": 232,
+                "y": 335
+              },
+              {
+                "x": 245,
+                "y": 335
+              },
+              {
+                "x": 245,
+                "y": 348
+              },
+              {
+                "x": 232,
+                "y": 348
+              }
+            ],
+            "confidence": 0.991
+          },
+          {
+            "text": "YOUR",
+            "boundingPolygon": [
+              {
+                "x": 247,
+                "y": 335
+              },
+              {
+                "x": 264,
+                "y": 335
+              },
+              {
+                "x": 263,
+                "y": 348
+              },
+              {
+                "x": 247,
+                "y": 348
+              }
+            ],
+            "confidence": 0.986
+          },
+          {
+            "text": "IMMUNE",
+            "boundingPolygon": [
+              {
+                "x": 266,
+                "y": 334
+              },
+              {
+                "x": 294,
+                "y": 334
+              },
+              {
+                "x": 293,
+                "y": 348
+              },
+              {
+                "x": 266,
+                "y": 348
+              }
+            ],
+            "confidence": 0.975
+          },
+          {
+            "text": "SYSTEM",
+            "boundingPolygon": [
+              {
+                "x": 296,
+                "y": 334
+              },
+              {
+                "x": 322,
+                "y": 334
+              },
+              {
+                "x": 321,
+                "y": 348
+              },
+              {
+                "x": 296,
+                "y": 348
+              }
+            ],
+            "confidence": 0.992
+          },
+          {
+            "text": "STRONG.",
+            "boundingPolygon": [
+              {
+                "x": 324,
+                "y": 334
+              },
+              {
+                "x": 351,
+                "y": 334
+              },
+              {
+                "x": 350,
+                "y": 348
+              },
+              {
+                "x": 324,
+                "y": 348
+              }
+            ],
+            "confidence": 0.912
+          },
+          {
+            "text": "IT",
+            "boundingPolygon": [
+              {
+                "x": 353,
+                "y": 334
+              },
+              {
+                "x": 359,
+                "y": 334
+              },
+              {
+                "x": 358,
+                "y": 348
+              },
+              {
+                "x": 352,
+                "y": 348
+              }
+            ],
+            "confidence": 0.995
+          },
+          {
+            "text": "CAN",
+            "boundingPolygon": [
+              {
+                "x": 361,
+                "y": 334
+              },
+              {
+                "x": 375,
+                "y": 334
+              },
+              {
+                "x": 374,
+                "y": 348
+              },
+              {
+                "x": 361,
+                "y": 348
+              }
+            ],
+            "confidence": 0.989
+          },
+          {
+            "text": "ALSO",
+            "boundingPolygon": [
+              {
+                "x": 377,
+                "y": 334
+              },
+              {
+                "x": 393,
+                "y": 334
+              },
+              {
+                "x": 392,
+                "y": 348
+              },
+              {
+                "x": 376,
+                "y": 348
+              }
+            ],
+            "confidence": 0.984
+          },
+          {
+            "text": "BE",
+            "boundingPolygon": [
+              {
+                "x": 395,
+                "y": 334
+              },
+              {
+                "x": 403,
+                "y": 335
+              },
+              {
+                "x": 402,
+                "y": 347
+              },
+              {
+                "x": 394,
+                "y": 348
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "USED",
+            "boundingPolygon": [
+              {
+                "x": 405,
+                "y": 335
+              },
+              {
+                "x": 422,
+                "y": 335
+              },
+              {
+                "x": 421,
+                "y": 347
+              },
+              {
+                "x": 404,
+                "y": 347
+              }
+            ],
+            "confidence": 0.986
+          },
+          {
+            "text": "AS",
+            "boundingPolygon": [
+              {
+                "x": 424,
+                "y": 335
+              },
+              {
+                "x": 432,
+                "y": 335
+              },
+              {
+                "x": 431,
+                "y": 347
+              },
+              {
+                "x": 423,
+                "y": 347
+              }
+            ],
+            "confidence": 0.989
+          },
+          {
+            "text": "A",
+            "boundingPolygon": [
+              {
+                "x": 435,
+                "y": 335
+              },
+              {
+                "x": 438,
+                "y": 335
+              },
+              {
+                "x": 437,
+                "y": 347
+              },
+              {
+                "x": 434,
+                "y": 347
+              }
+            ],
+            "confidence": 0.991
+          },
+          {
+            "text": "SOURCE",
+            "boundingPolygon": [
+              {
+                "x": 441,
+                "y": 335
+              },
+              {
+                "x": 465,
+                "y": 335
+              },
+              {
+                "x": 464,
+                "y": 347
+              },
+              {
+                "x": 440,
+                "y": 347
+              }
+            ],
+            "confidence": 0.922
+          },
+          {
+            "text": "OF",
+            "boundingPolygon": [
+              {
+                "x": 468,
+                "y": 335
+              },
+              {
+                "x": 476,
+                "y": 335
+              },
+              {
+                "x": 475,
+                "y": 347
+              },
+              {
+                "x": 467,
+                "y": 347
+              }
+            ],
+            "confidence": 0.997
+          },
+          {
+            "text": "ENERGY.",
+            "boundingPolygon": [
+              {
+                "x": 479,
+                "y": 335
+              },
+              {
+                "x": 507,
+                "y": 335
+              },
+              {
+                "x": 506,
+                "y": 347
+              },
+              {
+                "x": 478,
+                "y": 347
+              }
+            ],
+            "confidence": 0.875
+          }
+        ]
+      },
+      {
+        "text": "SCORE: 4 CALORIES / GRAM FOUND IN: MEATS, FISH, POULTRY, DAIRY PRODUCTS, NUTS, LEGUMES",
+        "boundingPolygon": [
+          {
+            "x": 122,
+            "y": 349
+          },
+          {
+            "x": 502,
+            "y": 349
+          },
+          {
+            "x": 502,
+            "y": 363
+          },
+          {
+            "x": 122,
+            "y": 362
+          }
+        ],
+        "words": [
+          {
+            "text": "SCORE:",
+            "boundingPolygon": [
+              {
+                "x": 123,
+                "y": 350
+              },
+              {
+                "x": 150,
+                "y": 350
+              },
+              {
+                "x": 150,
+                "y": 362
+              },
+              {
+                "x": 123,
+                "y": 362
+              }
+            ],
+            "confidence": 0.99
+          },
+          {
+            "text": "4",
+            "boundingPolygon": [
+              {
+                "x": 153,
+                "y": 350
+              },
+              {
+                "x": 156,
+                "y": 350
+              },
+              {
+                "x": 156,
+                "y": 362
+              },
+              {
+                "x": 152,
+                "y": 362
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "CALORIES",
+            "boundingPolygon": [
+              {
+                "x": 159,
+                "y": 350
+              },
+              {
+                "x": 196,
+                "y": 350
+              },
+              {
+                "x": 196,
+                "y": 363
+              },
+              {
+                "x": 159,
+                "y": 362
+              }
+            ],
+            "confidence": 0.959
+          },
+          {
+            "text": "/",
+            "boundingPolygon": [
+              {
+                "x": 198,
+                "y": 349
+              },
+              {
+                "x": 203,
+                "y": 349
+              },
+              {
+                "x": 203,
+                "y": 363
+              },
+              {
+                "x": 198,
+                "y": 363
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "GRAM",
+            "boundingPolygon": [
+              {
+                "x": 206,
+                "y": 349
+              },
+              {
+                "x": 227,
+                "y": 349
+              },
+              {
+                "x": 227,
+                "y": 363
+              },
+              {
+                "x": 205,
+                "y": 363
+              }
+            ],
+            "confidence": 0.986
+          },
+          {
+            "text": "FOUND",
+            "boundingPolygon": [
+              {
+                "x": 240,
+                "y": 349
+              },
+              {
+                "x": 265,
+                "y": 349
+              },
+              {
+                "x": 265,
+                "y": 363
+              },
+              {
+                "x": 240,
+                "y": 363
+              }
+            ],
+            "confidence": 0.959
+          },
+          {
+            "text": "IN:",
+            "boundingPolygon": [
+              {
+                "x": 267,
+                "y": 349
+              },
+              {
+                "x": 276,
+                "y": 349
+              },
+              {
+                "x": 276,
+                "y": 363
+              },
+              {
+                "x": 267,
+                "y": 363
+              }
+            ],
+            "confidence": 0.976
+          },
+          {
+            "text": "MEATS,",
+            "boundingPolygon": [
+              {
+                "x": 279,
+                "y": 349
+              },
+              {
+                "x": 307,
+                "y": 349
+              },
+              {
+                "x": 307,
+                "y": 363
+              },
+              {
+                "x": 279,
+                "y": 363
+              }
+            ],
+            "confidence": 0.951
+          },
+          {
+            "text": "FISH,",
+            "boundingPolygon": [
+              {
+                "x": 310,
+                "y": 349
+              },
+              {
+                "x": 329,
+                "y": 349
+              },
+              {
+                "x": 329,
+                "y": 363
+              },
+              {
+                "x": 309,
+                "y": 363
+              }
+            ],
+            "confidence": 0.98
+          },
+          {
+            "text": "POULTRY,",
+            "boundingPolygon": [
+              {
+                "x": 332,
+                "y": 349
+              },
+              {
+                "x": 365,
+                "y": 349
+              },
+              {
+                "x": 365,
+                "y": 363
+              },
+              {
+                "x": 332,
+                "y": 363
+              }
+            ],
+            "confidence": 0.961
+          },
+          {
+            "text": "DAIRY",
+            "boundingPolygon": [
+              {
+                "x": 368,
+                "y": 349
+              },
+              {
+                "x": 391,
+                "y": 349
+              },
+              {
+                "x": 391,
+                "y": 363
+              },
+              {
+                "x": 368,
+                "y": 363
+              }
+            ],
+            "confidence": 0.988
+          },
+          {
+            "text": "PRODUCTS,",
+            "boundingPolygon": [
+              {
+                "x": 394,
+                "y": 349
+              },
+              {
+                "x": 435,
+                "y": 349
+              },
+              {
+                "x": 435,
+                "y": 363
+              },
+              {
+                "x": 393,
+                "y": 363
+              }
+            ],
+            "confidence": 0.82
+          },
+          {
+            "text": "NUTS,",
+            "boundingPolygon": [
+              {
+                "x": 438,
+                "y": 349
+              },
+              {
+                "x": 459,
+                "y": 349
+              },
+              {
+                "x": 459,
+                "y": 363
+              },
+              {
+                "x": 437,
+                "y": 363
+              }
+            ],
+            "confidence": 0.917
+          },
+          {
+            "text": "LEGUMES",
+            "boundingPolygon": [
+              {
+                "x": 462,
+                "y": 349
+              },
+              {
+                "x": 501,
+                "y": 350
+              },
+              {
+                "x": 501,
+                "y": 363
+              },
+              {
+                "x": 461,
+                "y": 363
+              }
+            ],
+            "confidence": 0.99
+          }
+        ]
+      },
+      {
+        "text": "FATS",
+        "boundingPolygon": [
+          {
+            "x": 122,
+            "y": 380
+          },
+          {
+            "x": 148,
+            "y": 380
+          },
+          {
+            "x": 148,
+            "y": 393
+          },
+          {
+            "x": 122,
+            "y": 393
+          }
+        ],
+        "words": [
+          {
+            "text": "FATS",
+            "boundingPolygon": [
+              {
+                "x": 124,
+                "y": 380
+              },
+              {
+                "x": 147,
+                "y": 380
+              },
+              {
+                "x": 147,
+                "y": 393
+              },
+              {
+                "x": 124,
+                "y": 393
+              }
+            ],
+            "confidence": 0.986
+          }
+        ]
+      },
+      {
+        "text": "THERE ARE THREE MAIN TYPES OF FATS: UNSATURATED, SATURATED, AND TRANS. ALTHOUGH SATURATED AND TRANS FATS",
+        "boundingPolygon": [
+          {
+            "x": 122,
+            "y": 396
+          },
+          {
+            "x": 520,
+            "y": 396
+          },
+          {
+            "x": 520,
+            "y": 410
+          },
+          {
+            "x": 122,
+            "y": 410
+          }
+        ],
+        "words": [
+          {
+            "text": "THERE",
+            "boundingPolygon": [
+              {
+                "x": 123,
+                "y": 398
+              },
+              {
+                "x": 143,
+                "y": 398
+              },
+              {
+                "x": 143,
+                "y": 409
+              },
+              {
+                "x": 122,
+                "y": 409
+              }
+            ],
+            "confidence": 0.991
+          },
+          {
+            "text": "ARE",
+            "boundingPolygon": [
+              {
+                "x": 146,
+                "y": 398
+              },
+              {
+                "x": 158,
+                "y": 398
+              },
+              {
+                "x": 158,
+                "y": 409
+              },
+              {
+                "x": 145,
+                "y": 409
+              }
+            ],
+            "confidence": 0.99
+          },
+          {
+            "text": "THREE",
+            "boundingPolygon": [
+              {
+                "x": 161,
+                "y": 398
+              },
+              {
+                "x": 181,
+                "y": 398
+              },
+              {
+                "x": 181,
+                "y": 409
+              },
+              {
+                "x": 160,
+                "y": 409
+              }
+            ],
+            "confidence": 0.991
+          },
+          {
+            "text": "MAIN",
+            "boundingPolygon": [
+              {
+                "x": 184,
+                "y": 398
+              },
+              {
+                "x": 201,
+                "y": 397
+              },
+              {
+                "x": 200,
+                "y": 410
+              },
+              {
+                "x": 183,
+                "y": 409
+              }
+            ],
+            "confidence": 0.99
+          },
+          {
+            "text": "TYPES",
+            "boundingPolygon": [
+              {
+                "x": 203,
+                "y": 397
+              },
+              {
+                "x": 223,
+                "y": 397
+              },
+              {
+                "x": 223,
+                "y": 410
+              },
+              {
+                "x": 203,
+                "y": 410
+              }
+            ],
+            "confidence": 0.988
+          },
+          {
+            "text": "OF",
+            "boundingPolygon": [
+              {
+                "x": 225,
+                "y": 397
+              },
+              {
+                "x": 233,
+                "y": 397
+              },
+              {
+                "x": 232,
+                "y": 410
+              },
+              {
+                "x": 225,
+                "y": 410
+              }
+            ],
+            "confidence": 0.985
+          },
+          {
+            "text": "FATS:",
+            "boundingPolygon": [
+              {
+                "x": 235,
+                "y": 397
+              },
+              {
+                "x": 252,
+                "y": 397
+              },
+              {
+                "x": 251,
+                "y": 410
+              },
+              {
+                "x": 235,
+                "y": 410
+              }
+            ],
+            "confidence": 0.959
+          },
+          {
+            "text": "UNSATURATED,",
+            "boundingPolygon": [
+              {
+                "x": 254,
+                "y": 397
+              },
+              {
+                "x": 303,
+                "y": 397
+              },
+              {
+                "x": 303,
+                "y": 410
+              },
+              {
+                "x": 254,
+                "y": 410
+              }
+            ],
+            "confidence": 0.953
+          },
+          {
+            "text": "SATURATED,",
+            "boundingPolygon": [
+              {
+                "x": 306,
+                "y": 397
+              },
+              {
+                "x": 344,
+                "y": 397
+              },
+              {
+                "x": 344,
+                "y": 410
+              },
+              {
+                "x": 305,
+                "y": 410
+              }
+            ],
+            "confidence": 0.975
+          },
+          {
+            "text": "AND",
+            "boundingPolygon": [
+              {
+                "x": 347,
+                "y": 397
+              },
+              {
+                "x": 360,
+                "y": 397
+              },
+              {
+                "x": 359,
+                "y": 410
+              },
+              {
+                "x": 346,
+                "y": 410
+              }
+            ],
+            "confidence": 0.983
+          },
+          {
+            "text": "TRANS.",
+            "boundingPolygon": [
+              {
+                "x": 362,
+                "y": 397
+              },
+              {
+                "x": 385,
+                "y": 397
+              },
+              {
+                "x": 385,
+                "y": 410
+              },
+              {
+                "x": 362,
+                "y": 410
+              }
+            ],
+            "confidence": 0.868
+          },
+          {
+            "text": "ALTHOUGH",
+            "boundingPolygon": [
+              {
+                "x": 388,
+                "y": 397
+              },
+              {
+                "x": 421,
+                "y": 397
+              },
+              {
+                "x": 421,
+                "y": 410
+              },
+              {
+                "x": 387,
+                "y": 410
+              }
+            ],
+            "confidence": 0.987
+          },
+          {
+            "text": "SATURATED",
+            "boundingPolygon": [
+              {
+                "x": 424,
+                "y": 397
+              },
+              {
+                "x": 460,
+                "y": 397
+              },
+              {
+                "x": 460,
+                "y": 410
+              },
+              {
+                "x": 423,
+                "y": 410
+              }
+            ],
+            "confidence": 0.99
+          },
+          {
+            "text": "AND",
+            "boundingPolygon": [
+              {
+                "x": 463,
+                "y": 397
+              },
+              {
+                "x": 476,
+                "y": 397
+              },
+              {
+                "x": 476,
+                "y": 410
+              },
+              {
+                "x": 463,
+                "y": 410
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "TRANS",
+            "boundingPolygon": [
+              {
+                "x": 478,
+                "y": 397
+              },
+              {
+                "x": 499,
+                "y": 398
+              },
+              {
+                "x": 499,
+                "y": 410
+              },
+              {
+                "x": 478,
+                "y": 410
+              }
+            ],
+            "confidence": 0.953
+          },
+          {
+            "text": "FATS",
+            "boundingPolygon": [
+              {
+                "x": 501,
+                "y": 398
+              },
+              {
+                "x": 520,
+                "y": 398
+              },
+              {
+                "x": 520,
+                "y": 409
+              },
+              {
+                "x": 501,
+                "y": 410
+              }
+            ],
+            "confidence": 0.983
+          }
+        ]
+      },
+      {
+        "text": "ARE BAD FOR YOU, UNSATURATED FATS CAN HELP PREVENT HEART DISEASE. BE SURE TO READ NUTRITIONAL LABELSI",
+        "boundingPolygon": [
+          {
+            "x": 123,
+            "y": 411
+          },
+          {
+            "x": 502,
+            "y": 410
+          },
+          {
+            "x": 502,
+            "y": 423
+          },
+          {
+            "x": 123,
+            "y": 423
+          }
+        ],
+        "words": [
+          {
+            "text": "ARE",
+            "boundingPolygon": [
+              {
+                "x": 124,
+                "y": 412
+              },
+              {
+                "x": 135,
+                "y": 412
+              },
+              {
+                "x": 135,
+                "y": 423
+              },
+              {
+                "x": 124,
+                "y": 423
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "BAD",
+            "boundingPolygon": [
+              {
+                "x": 137,
+                "y": 412
+              },
+              {
+                "x": 150,
+                "y": 412
+              },
+              {
+                "x": 150,
+                "y": 423
+              },
+              {
+                "x": 137,
+                "y": 423
+              }
+            ],
+            "confidence": 0.97
+          },
+          {
+            "text": "FOR",
+            "boundingPolygon": [
+              {
+                "x": 152,
+                "y": 412
+              },
+              {
+                "x": 164,
+                "y": 412
+              },
+              {
+                "x": 164,
+                "y": 423
+              },
+              {
+                "x": 152,
+                "y": 423
+              }
+            ],
+            "confidence": 0.997
+          },
+          {
+            "text": "YOU,",
+            "boundingPolygon": [
+              {
+                "x": 167,
+                "y": 412
+              },
+              {
+                "x": 181,
+                "y": 412
+              },
+              {
+                "x": 181,
+                "y": 424
+              },
+              {
+                "x": 167,
+                "y": 423
+              }
+            ],
+            "confidence": 0.959
+          },
+          {
+            "text": "UNSATURATED",
+            "boundingPolygon": [
+              {
+                "x": 184,
+                "y": 412
+              },
+              {
+                "x": 230,
+                "y": 411
+              },
+              {
+                "x": 230,
+                "y": 424
+              },
+              {
+                "x": 183,
+                "y": 424
+              }
+            ],
+            "confidence": 0.985
+          },
+          {
+            "text": "FATS",
+            "boundingPolygon": [
+              {
+                "x": 232,
+                "y": 411
+              },
+              {
+                "x": 248,
+                "y": 411
+              },
+              {
+                "x": 247,
+                "y": 424
+              },
+              {
+                "x": 232,
+                "y": 424
+              }
+            ],
+            "confidence": 0.988
+          },
+          {
+            "text": "CAN",
+            "boundingPolygon": [
+              {
+                "x": 250,
+                "y": 411
+              },
+              {
+                "x": 263,
+                "y": 411
+              },
+              {
+                "x": 262,
+                "y": 424
+              },
+              {
+                "x": 250,
+                "y": 424
+              }
+            ],
+            "confidence": 0.975
+          },
+          {
+            "text": "HELP",
+            "boundingPolygon": [
+              {
+                "x": 265,
+                "y": 411
+              },
+              {
+                "x": 281,
+                "y": 411
+              },
+              {
+                "x": 281,
+                "y": 424
+              },
+              {
+                "x": 265,
+                "y": 424
+              }
+            ],
+            "confidence": 0.985
+          },
+          {
+            "text": "PREVENT",
+            "boundingPolygon": [
+              {
+                "x": 284,
+                "y": 411
+              },
+              {
+                "x": 312,
+                "y": 411
+              },
+              {
+                "x": 312,
+                "y": 424
+              },
+              {
+                "x": 283,
+                "y": 424
+              }
+            ],
+            "confidence": 0.96
+          },
+          {
+            "text": "HEART",
+            "boundingPolygon": [
+              {
+                "x": 315,
+                "y": 411
+              },
+              {
+                "x": 336,
+                "y": 411
+              },
+              {
+                "x": 336,
+                "y": 424
+              },
+              {
+                "x": 314,
+                "y": 424
+              }
+            ],
+            "confidence": 0.99
+          },
+          {
+            "text": "DISEASE.",
+            "boundingPolygon": [
+              {
+                "x": 339,
+                "y": 411
+              },
+              {
+                "x": 368,
+                "y": 411
+              },
+              {
+                "x": 367,
+                "y": 424
+              },
+              {
+                "x": 338,
+                "y": 424
+              }
+            ],
+            "confidence": 0.798
+          },
+          {
+            "text": "BE",
+            "boundingPolygon": [
+              {
+                "x": 370,
+                "y": 411
+              },
+              {
+                "x": 378,
+                "y": 411
+              },
+              {
+                "x": 377,
+                "y": 424
+              },
+              {
+                "x": 369,
+                "y": 424
+              }
+            ],
+            "confidence": 0.967
+          },
+          {
+            "text": "SURE",
+            "boundingPolygon": [
+              {
+                "x": 380,
+                "y": 411
+              },
+              {
+                "x": 397,
+                "y": 411
+              },
+              {
+                "x": 396,
+                "y": 424
+              },
+              {
+                "x": 380,
+                "y": 424
+              }
+            ],
+            "confidence": 0.987
+          },
+          {
+            "text": "TO",
+            "boundingPolygon": [
+              {
+                "x": 400,
+                "y": 411
+              },
+              {
+                "x": 407,
+                "y": 411
+              },
+              {
+                "x": 406,
+                "y": 424
+              },
+              {
+                "x": 399,
+                "y": 424
+              }
+            ],
+            "confidence": 0.961
+          },
+          {
+            "text": "READ",
+            "boundingPolygon": [
+              {
+                "x": 409,
+                "y": 411
+              },
+              {
+                "x": 426,
+                "y": 411
+              },
+              {
+                "x": 425,
+                "y": 424
+              },
+              {
+                "x": 408,
+                "y": 424
+              }
+            ],
+            "confidence": 0.981
+          },
+          {
+            "text": "NUTRITIONAL",
+            "boundingPolygon": [
+              {
+                "x": 428,
+                "y": 411
+              },
+              {
+                "x": 470,
+                "y": 411
+              },
+              {
+                "x": 469,
+                "y": 423
+              },
+              {
+                "x": 427,
+                "y": 424
+              }
+            ],
+            "confidence": 0.828
+          },
+          {
+            "text": "LABELSI",
+            "boundingPolygon": [
+              {
+                "x": 472,
+                "y": 411
+              },
+              {
+                "x": 502,
+                "y": 412
+              },
+              {
+                "x": 501,
+                "y": 423
+              },
+              {
+                "x": 471,
+                "y": 423
+              }
+            ],
+            "confidence": 0.815
+          }
+        ]
+      },
+      {
+        "text": "SCORE: 9 CALORIES / GRAM FOUND IN: [UNSATURATED) OLIVE & CANOLA OIL, NUTS, AVOCADOS",
+        "boundingPolygon": [
+          {
+            "x": 122,
+            "y": 425
+          },
+          {
+            "x": 490,
+            "y": 425
+          },
+          {
+            "x": 490,
+            "y": 439
+          },
+          {
+            "x": 122,
+            "y": 439
+          }
+        ],
+        "words": [
+          {
+            "text": "SCORE:",
+            "boundingPolygon": [
+              {
+                "x": 123,
+                "y": 426
+              },
+              {
+                "x": 150,
+                "y": 426
+              },
+              {
+                "x": 149,
+                "y": 439
+              },
+              {
+                "x": 123,
+                "y": 438
+              }
+            ],
+            "confidence": 0.98
+          },
+          {
+            "text": "9",
+            "boundingPolygon": [
+              {
+                "x": 153,
+                "y": 426
+              },
+              {
+                "x": 156,
+                "y": 426
+              },
+              {
+                "x": 156,
+                "y": 439
+              },
+              {
+                "x": 152,
+                "y": 439
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "CALORIES",
+            "boundingPolygon": [
+              {
+                "x": 159,
+                "y": 426
+              },
+              {
+                "x": 196,
+                "y": 426
+              },
+              {
+                "x": 196,
+                "y": 439
+              },
+              {
+                "x": 158,
+                "y": 439
+              }
+            ],
+            "confidence": 0.98
+          },
+          {
+            "text": "/",
+            "boundingPolygon": [
+              {
+                "x": 199,
+                "y": 426
+              },
+              {
+                "x": 203,
+                "y": 426
+              },
+              {
+                "x": 202,
+                "y": 439
+              },
+              {
+                "x": 199,
+                "y": 439
+              }
+            ],
+            "confidence": 0.992
+          },
+          {
+            "text": "GRAM",
+            "boundingPolygon": [
+              {
+                "x": 205,
+                "y": 426
+              },
+              {
+                "x": 228,
+                "y": 425
+              },
+              {
+                "x": 227,
+                "y": 439
+              },
+              {
+                "x": 205,
+                "y": 439
+              }
+            ],
+            "confidence": 0.972
+          },
+          {
+            "text": "FOUND",
+            "boundingPolygon": [
+              {
+                "x": 239,
+                "y": 425
+              },
+              {
+                "x": 264,
+                "y": 425
+              },
+              {
+                "x": 264,
+                "y": 439
+              },
+              {
+                "x": 239,
+                "y": 439
+              }
+            ],
+            "confidence": 0.984
+          },
+          {
+            "text": "IN:",
+            "boundingPolygon": [
+              {
+                "x": 267,
+                "y": 425
+              },
+              {
+                "x": 277,
+                "y": 425
+              },
+              {
+                "x": 276,
+                "y": 439
+              },
+              {
+                "x": 267,
+                "y": 439
+              }
+            ],
+            "confidence": 0.959
+          },
+          {
+            "text": "[UNSATURATED)",
+            "boundingPolygon": [
+              {
+                "x": 280,
+                "y": 425
+              },
+              {
+                "x": 340,
+                "y": 425
+              },
+              {
+                "x": 339,
+                "y": 440
+              },
+              {
+                "x": 279,
+                "y": 440
+              }
+            ],
+            "confidence": 0.38
+          },
+          {
+            "text": "OLIVE",
+            "boundingPolygon": [
+              {
+                "x": 342,
+                "y": 425
+              },
+              {
+                "x": 364,
+                "y": 425
+              },
+              {
+                "x": 363,
+                "y": 440
+              },
+              {
+                "x": 342,
+                "y": 440
+              }
+            ],
+            "confidence": 0.988
+          },
+          {
+            "text": "&",
+            "boundingPolygon": [
+              {
+                "x": 366,
+                "y": 425
+              },
+              {
+                "x": 371,
+                "y": 425
+              },
+              {
+                "x": 370,
+                "y": 440
+              },
+              {
+                "x": 366,
+                "y": 440
+              }
+            ],
+            "confidence": 0.979
+          },
+          {
+            "text": "CANOLA",
+            "boundingPolygon": [
+              {
+                "x": 374,
+                "y": 425
+              },
+              {
+                "x": 403,
+                "y": 425
+              },
+              {
+                "x": 403,
+                "y": 439
+              },
+              {
+                "x": 373,
+                "y": 440
+              }
+            ],
+            "confidence": 0.988
+          },
+          {
+            "text": "OIL,",
+            "boundingPolygon": [
+              {
+                "x": 406,
+                "y": 425
+              },
+              {
+                "x": 420,
+                "y": 425
+              },
+              {
+                "x": 420,
+                "y": 439
+              },
+              {
+                "x": 405,
+                "y": 439
+              }
+            ],
+            "confidence": 0.953
+          },
+          {
+            "text": "NUTS,",
+            "boundingPolygon": [
+              {
+                "x": 423,
+                "y": 425
+              },
+              {
+                "x": 444,
+                "y": 425
+              },
+              {
+                "x": 444,
+                "y": 439
+              },
+              {
+                "x": 422,
+                "y": 439
+              }
+            ],
+            "confidence": 0.953
+          },
+          {
+            "text": "AVOCADOS",
+            "boundingPolygon": [
+              {
+                "x": 447,
+                "y": 425
+              },
+              {
+                "x": 490,
+                "y": 426
+              },
+              {
+                "x": 490,
+                "y": 439
+              },
+              {
+                "x": 446,
+                "y": 439
+              }
+            ],
+            "confidence": 0.989
+          }
+        ]
+      },
+      {
+        "text": "CARBOHYDRATES",
+        "boundingPolygon": [
+          {
+            "x": 123,
+            "y": 456
+          },
+          {
+            "x": 211,
+            "y": 456
+          },
+          {
+            "x": 210,
+            "y": 471
+          },
+          {
+            "x": 123,
+            "y": 471
+          }
+        ],
+        "words": [
+          {
+            "text": "CARBOHYDRATES",
+            "boundingPolygon": [
+              {
+                "x": 124,
+                "y": 457
+              },
+              {
+                "x": 209,
+                "y": 457
+              },
+              {
+                "x": 209,
+                "y": 471
+              },
+              {
+                "x": 123,
+                "y": 471
+              }
+            ],
+            "confidence": 0.992
+          }
+        ]
+      },
+      {
+        "text": "CARBS ARE YOUR BODY'S MAIN SOURCE OF ENERGY. SIMPLE CARBS (LIKE SUGAR) BURN UP FAST WHEREAS COMPLEX CARBS",
+        "boundingPolygon": [
+          {
+            "x": 121,
+            "y": 474
+          },
+          {
+            "x": 526,
+            "y": 474
+          },
+          {
+            "x": 526,
+            "y": 486
+          },
+          {
+            "x": 121,
+            "y": 486
+          }
+        ],
+        "words": [
+          {
+            "text": "CARBS",
+            "boundingPolygon": [
+              {
+                "x": 123,
+                "y": 475
+              },
+              {
+                "x": 144,
+                "y": 475
+              },
+              {
+                "x": 144,
+                "y": 486
+              },
+              {
+                "x": 123,
+                "y": 486
+              }
+            ],
+            "confidence": 0.871
+          },
+          {
+            "text": "ARE",
+            "boundingPolygon": [
+              {
+                "x": 146,
+                "y": 475
+              },
+              {
+                "x": 159,
+                "y": 475
+              },
+              {
+                "x": 159,
+                "y": 487
+              },
+              {
+                "x": 146,
+                "y": 486
+              }
+            ],
+            "confidence": 0.987
+          },
+          {
+            "text": "YOUR",
+            "boundingPolygon": [
+              {
+                "x": 161,
+                "y": 475
+              },
+              {
+                "x": 177,
+                "y": 474
+              },
+              {
+                "x": 177,
+                "y": 487
+              },
+              {
+                "x": 161,
+                "y": 487
+              }
+            ],
+            "confidence": 0.988
+          },
+          {
+            "text": "BODY'S",
+            "boundingPolygon": [
+              {
+                "x": 180,
+                "y": 474
+              },
+              {
+                "x": 203,
+                "y": 474
+              },
+              {
+                "x": 203,
+                "y": 487
+              },
+              {
+                "x": 180,
+                "y": 487
+              }
+            ],
+            "confidence": 0.621
+          },
+          {
+            "text": "MAIN",
+            "boundingPolygon": [
+              {
+                "x": 205,
+                "y": 474
+              },
+              {
+                "x": 222,
+                "y": 474
+              },
+              {
+                "x": 222,
+                "y": 487
+              },
+              {
+                "x": 205,
+                "y": 487
+              }
+            ],
+            "confidence": 0.98
+          },
+          {
+            "text": "SOURCE",
+            "boundingPolygon": [
+              {
+                "x": 225,
+                "y": 474
+              },
+              {
+                "x": 250,
+                "y": 474
+              },
+              {
+                "x": 249,
+                "y": 487
+              },
+              {
+                "x": 225,
+                "y": 487
+              }
+            ],
+            "confidence": 0.99
+          },
+          {
+            "text": "OF",
+            "boundingPolygon": [
+              {
+                "x": 252,
+                "y": 474
+              },
+              {
+                "x": 259,
+                "y": 474
+              },
+              {
+                "x": 259,
+                "y": 487
+              },
+              {
+                "x": 252,
+                "y": 487
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "ENERGY.",
+            "boundingPolygon": [
+              {
+                "x": 262,
+                "y": 474
+              },
+              {
+                "x": 289,
+                "y": 474
+              },
+              {
+                "x": 289,
+                "y": 487
+              },
+              {
+                "x": 262,
+                "y": 487
+              }
+            ],
+            "confidence": 0.525
+          },
+          {
+            "text": "SIMPLE",
+            "boundingPolygon": [
+              {
+                "x": 291,
+                "y": 474
+              },
+              {
+                "x": 314,
+                "y": 474
+              },
+              {
+                "x": 314,
+                "y": 487
+              },
+              {
+                "x": 291,
+                "y": 487
+              }
+            ],
+            "confidence": 0.99
+          },
+          {
+            "text": "CARBS",
+            "boundingPolygon": [
+              {
+                "x": 317,
+                "y": 474
+              },
+              {
+                "x": 338,
+                "y": 474
+              },
+              {
+                "x": 338,
+                "y": 487
+              },
+              {
+                "x": 316,
+                "y": 487
+              }
+            ],
+            "confidence": 0.87
+          },
+          {
+            "text": "(LIKE",
+            "boundingPolygon": [
+              {
+                "x": 340,
+                "y": 474
+              },
+              {
+                "x": 358,
+                "y": 474
+              },
+              {
+                "x": 357,
+                "y": 487
+              },
+              {
+                "x": 340,
+                "y": 487
+              }
+            ],
+            "confidence": 0.728
+          },
+          {
+            "text": "SUGAR)",
+            "boundingPolygon": [
+              {
+                "x": 360,
+                "y": 474
+              },
+              {
+                "x": 384,
+                "y": 474
+              },
+              {
+                "x": 383,
+                "y": 487
+              },
+              {
+                "x": 360,
+                "y": 487
+              }
+            ],
+            "confidence": 0.667
+          },
+          {
+            "text": "BURN",
+            "boundingPolygon": [
+              {
+                "x": 386,
+                "y": 474
+              },
+              {
+                "x": 403,
+                "y": 474
+              },
+              {
+                "x": 403,
+                "y": 487
+              },
+              {
+                "x": 386,
+                "y": 487
+              }
+            ],
+            "confidence": 0.959
+          },
+          {
+            "text": "UP",
+            "boundingPolygon": [
+              {
+                "x": 406,
+                "y": 474
+              },
+              {
+                "x": 414,
+                "y": 474
+              },
+              {
+                "x": 414,
+                "y": 487
+              },
+              {
+                "x": 405,
+                "y": 487
+              }
+            ],
+            "confidence": 0.995
+          },
+          {
+            "text": "FAST",
+            "boundingPolygon": [
+              {
+                "x": 416,
+                "y": 474
+              },
+              {
+                "x": 431,
+                "y": 474
+              },
+              {
+                "x": 431,
+                "y": 487
+              },
+              {
+                "x": 416,
+                "y": 487
+              }
+            ],
+            "confidence": 0.99
+          },
+          {
+            "text": "WHEREAS",
+            "boundingPolygon": [
+              {
+                "x": 434,
+                "y": 474
+              },
+              {
+                "x": 466,
+                "y": 474
+              },
+              {
+                "x": 465,
+                "y": 487
+              },
+              {
+                "x": 433,
+                "y": 487
+              }
+            ],
+            "confidence": 0.979
+          },
+          {
+            "text": "COMPLEX",
+            "boundingPolygon": [
+              {
+                "x": 468,
+                "y": 474
+              },
+              {
+                "x": 498,
+                "y": 474
+              },
+              {
+                "x": 498,
+                "y": 487
+              },
+              {
+                "x": 468,
+                "y": 487
+              }
+            ],
+            "confidence": 0.954
+          },
+          {
+            "text": "CARBS",
+            "boundingPolygon": [
+              {
+                "x": 501,
+                "y": 475
+              },
+              {
+                "x": 526,
+                "y": 475
+              },
+              {
+                "x": 525,
+                "y": 487
+              },
+              {
+                "x": 500,
+                "y": 487
+              }
+            ],
+            "confidence": 0.804
+          }
+        ]
+      },
+      {
+        "text": "[LIKE STARCHES) BURN SLOWER OVER TIME, BE SURE TO BALANCE YOUR CARB CONSUMPTION WITH AN ACTIVE LIFESTYLE.",
+        "boundingPolygon": [
+          {
+            "x": 124,
+            "y": 488
+          },
+          {
+            "x": 521,
+            "y": 488
+          },
+          {
+            "x": 521,
+            "y": 500
+          },
+          {
+            "x": 124,
+            "y": 501
+          }
+        ],
+        "words": [
+          {
+            "text": "[LIKE",
+            "boundingPolygon": [
+              {
+                "x": 124,
+                "y": 489
+              },
+              {
+                "x": 139,
+                "y": 489
+              },
+              {
+                "x": 139,
+                "y": 500
+              },
+              {
+                "x": 124,
+                "y": 500
+              }
+            ],
+            "confidence": 0.601
+          },
+          {
+            "text": "STARCHES)",
+            "boundingPolygon": [
+              {
+                "x": 142,
+                "y": 489
+              },
+              {
+                "x": 178,
+                "y": 489
+              },
+              {
+                "x": 178,
+                "y": 501
+              },
+              {
+                "x": 142,
+                "y": 500
+              }
+            ],
+            "confidence": 0.703
+          },
+          {
+            "text": "BURN",
+            "boundingPolygon": [
+              {
+                "x": 180,
+                "y": 489
+              },
+              {
+                "x": 198,
+                "y": 489
+              },
+              {
+                "x": 197,
+                "y": 501
+              },
+              {
+                "x": 180,
+                "y": 501
+              }
+            ],
+            "confidence": 0.98
+          },
+          {
+            "text": "SLOWER",
+            "boundingPolygon": [
+              {
+                "x": 200,
+                "y": 489
+              },
+              {
+                "x": 226,
+                "y": 489
+              },
+              {
+                "x": 226,
+                "y": 501
+              },
+              {
+                "x": 200,
+                "y": 501
+              }
+            ],
+            "confidence": 0.99
+          },
+          {
+            "text": "OVER",
+            "boundingPolygon": [
+              {
+                "x": 229,
+                "y": 489
+              },
+              {
+                "x": 246,
+                "y": 488
+              },
+              {
+                "x": 245,
+                "y": 501
+              },
+              {
+                "x": 229,
+                "y": 501
+              }
+            ],
+            "confidence": 0.981
+          },
+          {
+            "text": "TIME,",
+            "boundingPolygon": [
+              {
+                "x": 248,
+                "y": 488
+              },
+              {
+                "x": 267,
+                "y": 488
+              },
+              {
+                "x": 267,
+                "y": 501
+              },
+              {
+                "x": 248,
+                "y": 501
+              }
+            ],
+            "confidence": 0.715
+          },
+          {
+            "text": "BE",
+            "boundingPolygon": [
+              {
+                "x": 269,
+                "y": 488
+              },
+              {
+                "x": 277,
+                "y": 488
+              },
+              {
+                "x": 277,
+                "y": 501
+              },
+              {
+                "x": 269,
+                "y": 501
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "SURE",
+            "boundingPolygon": [
+              {
+                "x": 280,
+                "y": 488
+              },
+              {
+                "x": 297,
+                "y": 488
+              },
+              {
+                "x": 296,
+                "y": 501
+              },
+              {
+                "x": 279,
+                "y": 501
+              }
+            ],
+            "confidence": 0.982
+          },
+          {
+            "text": "TO",
+            "boundingPolygon": [
+              {
+                "x": 299,
+                "y": 488
+              },
+              {
+                "x": 306,
+                "y": 488
+              },
+              {
+                "x": 306,
+                "y": 501
+              },
+              {
+                "x": 299,
+                "y": 501
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "BALANCE",
+            "boundingPolygon": [
+              {
+                "x": 309,
+                "y": 488
+              },
+              {
+                "x": 338,
+                "y": 488
+              },
+              {
+                "x": 338,
+                "y": 501
+              },
+              {
+                "x": 308,
+                "y": 501
+              }
+            ],
+            "confidence": 0.991
+          },
+          {
+            "text": "YOUR",
+            "boundingPolygon": [
+              {
+                "x": 341,
+                "y": 488
+              },
+              {
+                "x": 357,
+                "y": 488
+              },
+              {
+                "x": 357,
+                "y": 501
+              },
+              {
+                "x": 340,
+                "y": 501
+              }
+            ],
+            "confidence": 0.983
+          },
+          {
+            "text": "CARB",
+            "boundingPolygon": [
+              {
+                "x": 360,
+                "y": 488
+              },
+              {
+                "x": 377,
+                "y": 488
+              },
+              {
+                "x": 377,
+                "y": 501
+              },
+              {
+                "x": 359,
+                "y": 501
+              }
+            ],
+            "confidence": 0.95
+          },
+          {
+            "text": "CONSUMPTION",
+            "boundingPolygon": [
+              {
+                "x": 380,
+                "y": 488
+              },
+              {
+                "x": 426,
+                "y": 488
+              },
+              {
+                "x": 425,
+                "y": 501
+              },
+              {
+                "x": 379,
+                "y": 501
+              }
+            ],
+            "confidence": 0.818
+          },
+          {
+            "text": "WITH",
+            "boundingPolygon": [
+              {
+                "x": 428,
+                "y": 488
+              },
+              {
+                "x": 445,
+                "y": 488
+              },
+              {
+                "x": 444,
+                "y": 501
+              },
+              {
+                "x": 428,
+                "y": 501
+              }
+            ],
+            "confidence": 0.978
+          },
+          {
+            "text": "AN",
+            "boundingPolygon": [
+              {
+                "x": 448,
+                "y": 488
+              },
+              {
+                "x": 456,
+                "y": 489
+              },
+              {
+                "x": 456,
+                "y": 501
+              },
+              {
+                "x": 447,
+                "y": 501
+              }
+            ],
+            "confidence": 0.996
+          },
+          {
+            "text": "ACTIVE",
+            "boundingPolygon": [
+              {
+                "x": 459,
+                "y": 489
+              },
+              {
+                "x": 480,
+                "y": 489
+              },
+              {
+                "x": 479,
+                "y": 501
+              },
+              {
+                "x": 458,
+                "y": 501
+              }
+            ],
+            "confidence": 0.959
+          },
+          {
+            "text": "LIFESTYLE.",
+            "boundingPolygon": [
+              {
+                "x": 483,
+                "y": 489
+              },
+              {
+                "x": 522,
+                "y": 489
+              },
+              {
+                "x": 521,
+                "y": 500
+              },
+              {
+                "x": 482,
+                "y": 501
+              }
+            ],
+            "confidence": 0.813
+          }
+        ]
+      },
+      {
+        "text": "SCORE: 4 CALORIES / GRAM FOUND IN: FRUITS, VEGETABLES, GRAIN PRODUCTS",
+        "boundingPolygon": [
+          {
+            "x": 122,
+            "y": 502
+          },
+          {
+            "x": 431,
+            "y": 501
+          },
+          {
+            "x": 431,
+            "y": 516
+          },
+          {
+            "x": 122,
+            "y": 516
+          }
+        ],
+        "words": [
+          {
+            "text": "SCORE:",
+            "boundingPolygon": [
+              {
+                "x": 123,
+                "y": 504
+              },
+              {
+                "x": 149,
+                "y": 503
+              },
+              {
+                "x": 149,
+                "y": 516
+              },
+              {
+                "x": 122,
+                "y": 516
+              }
+            ],
+            "confidence": 0.98
+          },
+          {
+            "text": "4",
+            "boundingPolygon": [
+              {
+                "x": 152,
+                "y": 503
+              },
+              {
+                "x": 156,
+                "y": 503
+              },
+              {
+                "x": 155,
+                "y": 516
+              },
+              {
+                "x": 152,
+                "y": 516
+              }
+            ],
+            "confidence": 0.991
+          },
+          {
+            "text": "CALORIES",
+            "boundingPolygon": [
+              {
+                "x": 159,
+                "y": 503
+              },
+              {
+                "x": 196,
+                "y": 502
+              },
+              {
+                "x": 196,
+                "y": 516
+              },
+              {
+                "x": 158,
+                "y": 516
+              }
+            ],
+            "confidence": 0.955
+          },
+          {
+            "text": "/",
+            "boundingPolygon": [
+              {
+                "x": 199,
+                "y": 502
+              },
+              {
+                "x": 203,
+                "y": 502
+              },
+              {
+                "x": 202,
+                "y": 516
+              },
+              {
+                "x": 198,
+                "y": 516
+              }
+            ],
+            "confidence": 0.99
+          },
+          {
+            "text": "GRAM",
+            "boundingPolygon": [
+              {
+                "x": 205,
+                "y": 502
+              },
+              {
+                "x": 228,
+                "y": 502
+              },
+              {
+                "x": 228,
+                "y": 516
+              },
+              {
+                "x": 205,
+                "y": 516
+              }
+            ],
+            "confidence": 0.982
+          },
+          {
+            "text": "FOUND",
+            "boundingPolygon": [
+              {
+                "x": 239,
+                "y": 502
+              },
+              {
+                "x": 264,
+                "y": 502
+              },
+              {
+                "x": 264,
+                "y": 517
+              },
+              {
+                "x": 239,
+                "y": 516
+              }
+            ],
+            "confidence": 0.985
+          },
+          {
+            "text": "IN:",
+            "boundingPolygon": [
+              {
+                "x": 267,
+                "y": 502
+              },
+              {
+                "x": 277,
+                "y": 502
+              },
+              {
+                "x": 276,
+                "y": 517
+              },
+              {
+                "x": 266,
+                "y": 517
+              }
+            ],
+            "confidence": 0.964
+          },
+          {
+            "text": "FRUITS,",
+            "boundingPolygon": [
+              {
+                "x": 280,
+                "y": 502
+              },
+              {
+                "x": 307,
+                "y": 502
+              },
+              {
+                "x": 307,
+                "y": 517
+              },
+              {
+                "x": 279,
+                "y": 517
+              }
+            ],
+            "confidence": 0.92
+          },
+          {
+            "text": "VEGETABLES,",
+            "boundingPolygon": [
+              {
+                "x": 310,
+                "y": 502
+              },
+              {
+                "x": 360,
+                "y": 502
+              },
+              {
+                "x": 360,
+                "y": 517
+              },
+              {
+                "x": 309,
+                "y": 517
+              }
+            ],
+            "confidence": 0.955
+          },
+          {
+            "text": "GRAIN",
+            "boundingPolygon": [
+              {
+                "x": 363,
+                "y": 502
+              },
+              {
+                "x": 386,
+                "y": 503
+              },
+              {
+                "x": 386,
+                "y": 517
+              },
+              {
+                "x": 363,
+                "y": 517
+              }
+            ],
+            "confidence": 0.989
+          },
+          {
+            "text": "PRODUCTS",
+            "boundingPolygon": [
+              {
+                "x": 389,
+                "y": 503
+              },
+              {
+                "x": 431,
+                "y": 503
+              },
+              {
+                "x": 431,
+                "y": 517
+              },
+              {
+                "x": 388,
+                "y": 517
+              }
+            ],
+            "confidence": 0.982
+          }
+        ]
+      },
+      {
+        "text": "DAILY FOOD SERVINGS",
+        "boundingPolygon": [
+          {
+            "x": 48,
+            "y": 538
+          },
+          {
+            "x": 512,
+            "y": 538
+          },
+          {
+            "x": 512,
+            "y": 574
+          },
+          {
+            "x": 48,
+            "y": 574
+          }
+        ],
+        "words": [
+          {
+            "text": "DAILY",
+            "boundingPolygon": [
+              {
+                "x": 49,
+                "y": 539
+              },
+              {
+                "x": 163,
+                "y": 538
+              },
+              {
+                "x": 162,
+                "y": 575
+              },
+              {
+                "x": 48,
+                "y": 574
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "FOOD",
+            "boundingPolygon": [
+              {
+                "x": 187,
+                "y": 538
+              },
+              {
+                "x": 286,
+                "y": 538
+              },
+              {
+                "x": 285,
+                "y": 575
+              },
+              {
+                "x": 186,
+                "y": 575
+              }
+            ],
+            "confidence": 0.992
+          },
+          {
+            "text": "SERVINGS",
+            "boundingPolygon": [
+              {
+                "x": 313,
+                "y": 538
+              },
+              {
+                "x": 512,
+                "y": 539
+              },
+              {
+                "x": 511,
+                "y": 574
+              },
+              {
+                "x": 312,
+                "y": 575
+              }
+            ],
+            "confidence": 0.994
+          }
+        ]
+      },
+      {
+        "text": "AGE",
+        "boundingPolygon": [
+          {
+            "x": 57,
+            "y": 588
+          },
+          {
+            "x": 79,
+            "y": 588
+          },
+          {
+            "x": 79,
+            "y": 602
+          },
+          {
+            "x": 57,
+            "y": 603
+          }
+        ],
+        "words": [
+          {
+            "text": "AGE",
+            "boundingPolygon": [
+              {
+                "x": 57,
+                "y": 588
+              },
+              {
+                "x": 78,
+                "y": 588
+              },
+              {
+                "x": 79,
+                "y": 602
+              },
+              {
+                "x": 57,
+                "y": 603
+              }
+            ],
+            "confidence": 0.994
+          }
+        ]
+      },
+      {
+        "text": "SEX",
+        "boundingPolygon": [
+          {
+            "x": 108,
+            "y": 588
+          },
+          {
+            "x": 130,
+            "y": 588
+          },
+          {
+            "x": 130,
+            "y": 603
+          },
+          {
+            "x": 108,
+            "y": 603
+          }
+        ],
+        "words": [
+          {
+            "text": "SEX",
+            "boundingPolygon": [
+              {
+                "x": 108,
+                "y": 588
+              },
+              {
+                "x": 130,
+                "y": 588
+              },
+              {
+                "x": 130,
+                "y": 603
+              },
+              {
+                "x": 108,
+                "y": 603
+              }
+            ],
+            "confidence": 0.994
+          }
+        ]
+      },
+      {
+        "text": "6",
+        "boundingPolygon": [
+          {
+            "x": 181,
+            "y": 620
+          },
+          {
+            "x": 188,
+            "y": 621
+          },
+          {
+            "x": 188,
+            "y": 634
+          },
+          {
+            "x": 180,
+            "y": 634
+          }
+        ],
+        "words": [
+          {
+            "text": "6",
+            "boundingPolygon": [
+              {
+                "x": 181,
+                "y": 620
+              },
+              {
+                "x": 188,
+                "y": 620
+              },
+              {
+                "x": 187,
+                "y": 634
+              },
+              {
+                "x": 180,
+                "y": 633
+              }
+            ],
+            "confidence": 0.995
+          }
+        ]
+      },
+      {
+        "text": "6",
+        "boundingPolygon": [
+          {
+            "x": 278,
+            "y": 620
+          },
+          {
+            "x": 285,
+            "y": 620
+          },
+          {
+            "x": 286,
+            "y": 634
+          },
+          {
+            "x": 277,
+            "y": 634
+          }
+        ],
+        "words": [
+          {
+            "text": "6",
+            "boundingPolygon": [
+              {
+                "x": 277,
+                "y": 620
+              },
+              {
+                "x": 285,
+                "y": 620
+              },
+              {
+                "x": 285,
+                "y": 634
+              },
+              {
+                "x": 277,
+                "y": 634
+              }
+            ],
+            "confidence": 0.975
+          }
+        ]
+      },
+      {
+        "text": "3-4",
+        "boundingPolygon": [
+          {
+            "x": 370,
+            "y": 619
+          },
+          {
+            "x": 388,
+            "y": 620
+          },
+          {
+            "x": 388,
+            "y": 634
+          },
+          {
+            "x": 370,
+            "y": 634
+          }
+        ],
+        "words": [
+          {
+            "text": "3-4",
+            "boundingPolygon": [
+              {
+                "x": 370,
+                "y": 619
+              },
+              {
+                "x": 388,
+                "y": 619
+              },
+              {
+                "x": 387,
+                "y": 634
+              },
+              {
+                "x": 370,
+                "y": 633
+              }
+            ],
+            "confidence": 0.985
+          }
+        ]
+      },
+      {
+        "text": "1-2",
+        "boundingPolygon": [
+          {
+            "x": 467,
+            "y": 620
+          },
+          {
+            "x": 484,
+            "y": 620
+          },
+          {
+            "x": 484,
+            "y": 634
+          },
+          {
+            "x": 467,
+            "y": 634
+          }
+        ],
+        "words": [
+          {
+            "text": "1-2",
+            "boundingPolygon": [
+              {
+                "x": 467,
+                "y": 620
+              },
+              {
+                "x": 484,
+                "y": 620
+              },
+              {
+                "x": 484,
+                "y": 634
+              },
+              {
+                "x": 467,
+                "y": 634
+              }
+            ],
+            "confidence": 0.996
+          }
+        ]
+      },
+      {
+        "text": "8-13",
+        "boundingPolygon": [
+          {
+            "x": 53,
+            "y": 635
+          },
+          {
+            "x": 80,
+            "y": 635
+          },
+          {
+            "x": 79,
+            "y": 649
+          },
+          {
+            "x": 53,
+            "y": 649
+          }
+        ],
+        "words": [
+          {
+            "text": "8-13",
+            "boundingPolygon": [
+              {
+                "x": 54,
+                "y": 635
+              },
+              {
+                "x": 79,
+                "y": 635
+              },
+              {
+                "x": 79,
+                "y": 649
+              },
+              {
+                "x": 54,
+                "y": 649
+              }
+            ],
+            "confidence": 0.99
+          }
+        ]
+      },
+      {
+        "text": "6",
+        "boundingPolygon": [
+          {
+            "x": 181,
+            "y": 649
+          },
+          {
+            "x": 189,
+            "y": 650
+          },
+          {
+            "x": 189,
+            "y": 664
+          },
+          {
+            "x": 180,
+            "y": 664
+          }
+        ],
+        "words": [
+          {
+            "text": "6",
+            "boundingPolygon": [
+              {
+                "x": 181,
+                "y": 649
+              },
+              {
+                "x": 189,
+                "y": 649
+              },
+              {
+                "x": 188,
+                "y": 664
+              },
+              {
+                "x": 180,
+                "y": 663
+              }
+            ],
+            "confidence": 0.994
+          }
+        ]
+      },
+      {
+        "text": "6",
+        "boundingPolygon": [
+          {
+            "x": 278,
+            "y": 649
+          },
+          {
+            "x": 286,
+            "y": 650
+          },
+          {
+            "x": 286,
+            "y": 665
+          },
+          {
+            "x": 277,
+            "y": 664
+          }
+        ],
+        "words": [
+          {
+            "text": "6",
+            "boundingPolygon": [
+              {
+                "x": 278,
+                "y": 649
+              },
+              {
+                "x": 286,
+                "y": 650
+              },
+              {
+                "x": 284,
+                "y": 665
+              },
+              {
+                "x": 277,
+                "y": 664
+              }
+            ],
+            "confidence": 0.995
+          }
+        ]
+      },
+      {
+        "text": "3-4",
+        "boundingPolygon": [
+          {
+            "x": 367,
+            "y": 649
+          },
+          {
+            "x": 388,
+            "y": 649
+          },
+          {
+            "x": 388,
+            "y": 665
+          },
+          {
+            "x": 366,
+            "y": 665
+          }
+        ],
+        "words": [
+          {
+            "text": "3-4",
+            "boundingPolygon": [
+              {
+                "x": 368,
+                "y": 649
+              },
+              {
+                "x": 387,
+                "y": 649
+              },
+              {
+                "x": 387,
+                "y": 665
+              },
+              {
+                "x": 368,
+                "y": 665
+              }
+            ],
+            "confidence": 0.993
+          }
+        ]
+      },
+      {
+        "text": "1-2",
+        "boundingPolygon": [
+          {
+            "x": 466,
+            "y": 649
+          },
+          {
+            "x": 484,
+            "y": 649
+          },
+          {
+            "x": 484,
+            "y": 665
+          },
+          {
+            "x": 465,
+            "y": 665
+          }
+        ],
+        "words": [
+          {
+            "text": "1-2",
+            "boundingPolygon": [
+              {
+                "x": 466,
+                "y": 649
+              },
+              {
+                "x": 483,
+                "y": 649
+              },
+              {
+                "x": 483,
+                "y": 665
+              },
+              {
+                "x": 466,
+                "y": 665
+              }
+            ],
+            "confidence": 0.995
+          }
+        ]
+      },
+      {
+        "text": "14-18",
+        "boundingPolygon": [
+          {
+            "x": 51,
+            "y": 693
+          },
+          {
+            "x": 83,
+            "y": 694
+          },
+          {
+            "x": 83,
+            "y": 709
+          },
+          {
+            "x": 50,
+            "y": 708
+          }
+        ],
+        "words": [
+          {
+            "text": "14-18",
+            "boundingPolygon": [
+              {
+                "x": 52,
+                "y": 693
+              },
+              {
+                "x": 83,
+                "y": 694
+              },
+              {
+                "x": 83,
+                "y": 709
+              },
+              {
+                "x": 52,
+                "y": 708
+              }
+            ],
+            "confidence": 0.995
+          }
+        ]
+      },
+      {
+        "text": "8",
+        "boundingPolygon": [
+          {
+            "x": 181,
+            "y": 679
+          },
+          {
+            "x": 189,
+            "y": 679
+          },
+          {
+            "x": 189,
+            "y": 693
+          },
+          {
+            "x": 180,
+            "y": 693
+          }
+        ],
+        "words": [
+          {
+            "text": "8",
+            "boundingPolygon": [
+              {
+                "x": 181,
+                "y": 679
+              },
+              {
+                "x": 188,
+                "y": 679
+              },
+              {
+                "x": 188,
+                "y": 693
+              },
+              {
+                "x": 181,
+                "y": 693
+              }
+            ],
+            "confidence": 0.995
+          }
+        ]
+      },
+      {
+        "text": "7",
+        "boundingPolygon": [
+          {
+            "x": 277,
+            "y": 678
+          },
+          {
+            "x": 286,
+            "y": 678
+          },
+          {
+            "x": 286,
+            "y": 693
+          },
+          {
+            "x": 277,
+            "y": 693
+          }
+        ],
+        "words": [
+          {
+            "text": "7",
+            "boundingPolygon": [
+              {
+                "x": 279,
+                "y": 678
+              },
+              {
+                "x": 286,
+                "y": 678
+              },
+              {
+                "x": 286,
+                "y": 693
+              },
+              {
+                "x": 279,
+                "y": 693
+              }
+            ],
+            "confidence": 0.989
+          }
+        ]
+      },
+      {
+        "text": "3-4",
+        "boundingPolygon": [
+          {
+            "x": 367,
+            "y": 679
+          },
+          {
+            "x": 389,
+            "y": 678
+          },
+          {
+            "x": 389,
+            "y": 694
+          },
+          {
+            "x": 367,
+            "y": 694
+          }
+        ],
+        "words": [
+          {
+            "text": "3-4",
+            "boundingPolygon": [
+              {
+                "x": 368,
+                "y": 678
+              },
+              {
+                "x": 388,
+                "y": 678
+              },
+              {
+                "x": 388,
+                "y": 694
+              },
+              {
+                "x": 368,
+                "y": 694
+              }
+            ],
+            "confidence": 0.993
+          }
+        ]
+      },
+      {
+        "text": "3",
+        "boundingPolygon": [
+          {
+            "x": 471,
+            "y": 679
+          },
+          {
+            "x": 478,
+            "y": 679
+          },
+          {
+            "x": 478,
+            "y": 693
+          },
+          {
+            "x": 470,
+            "y": 693
+          }
+        ],
+        "words": [
+          {
+            "text": "3",
+            "boundingPolygon": [
+              {
+                "x": 471,
+                "y": 679
+              },
+              {
+                "x": 477,
+                "y": 679
+              },
+              {
+                "x": 477,
+                "y": 693
+              },
+              {
+                "x": 471,
+                "y": 693
+              }
+            ],
+            "confidence": 0.997
+          }
+        ]
+      },
+      {
+        "text": "7",
+        "boundingPolygon": [
+          {
+            "x": 181,
+            "y": 708
+          },
+          {
+            "x": 189,
+            "y": 708
+          },
+          {
+            "x": 189,
+            "y": 723
+          },
+          {
+            "x": 180,
+            "y": 723
+          }
+        ],
+        "words": [
+          {
+            "text": "7",
+            "boundingPolygon": [
+              {
+                "x": 182,
+                "y": 708
+              },
+              {
+                "x": 189,
+                "y": 708
+              },
+              {
+                "x": 189,
+                "y": 723
+              },
+              {
+                "x": 182,
+                "y": 723
+              }
+            ],
+            "confidence": 0.989
+          }
+        ]
+      },
+      {
+        "text": "6",
+        "boundingPolygon": [
+          {
+            "x": 277,
+            "y": 708
+          },
+          {
+            "x": 286,
+            "y": 709
+          },
+          {
+            "x": 286,
+            "y": 723
+          },
+          {
+            "x": 277,
+            "y": 723
+          }
+        ],
+        "words": [
+          {
+            "text": "6",
+            "boundingPolygon": [
+              {
+                "x": 278,
+                "y": 708
+              },
+              {
+                "x": 286,
+                "y": 708
+              },
+              {
+                "x": 285,
+                "y": 723
+              },
+              {
+                "x": 277,
+                "y": 722
+              }
+            ],
+            "confidence": 0.994
+          }
+        ]
+      },
+      {
+        "text": "3-4",
+        "boundingPolygon": [
+          {
+            "x": 367,
+            "y": 708
+          },
+          {
+            "x": 388,
+            "y": 708
+          },
+          {
+            "x": 388,
+            "y": 724
+          },
+          {
+            "x": 367,
+            "y": 724
+          }
+        ],
+        "words": [
+          {
+            "text": "3-4",
+            "boundingPolygon": [
+              {
+                "x": 368,
+                "y": 708
+              },
+              {
+                "x": 387,
+                "y": 708
+              },
+              {
+                "x": 387,
+                "y": 724
+              },
+              {
+                "x": 368,
+                "y": 724
+              }
+            ],
+            "confidence": 0.993
+          }
+        ]
+      },
+      {
+        "text": "2",
+        "boundingPolygon": [
+          {
+            "x": 470,
+            "y": 708
+          },
+          {
+            "x": 479,
+            "y": 709
+          },
+          {
+            "x": 479,
+            "y": 723
+          },
+          {
+            "x": 469,
+            "y": 722
+          }
+        ],
+        "words": [
+          {
+            "text": "2",
+            "boundingPolygon": [
+              {
+                "x": 472,
+                "y": 708
+              },
+              {
+                "x": 479,
+                "y": 709
+              },
+              {
+                "x": 478,
+                "y": 723
+              },
+              {
+                "x": 470,
+                "y": 722
+              }
+            ],
+            "confidence": 0.995
+          }
+        ]
+      },
+      {
+        "text": "FRUITS / VEGETABLES",
+        "boundingPolygon": [
+          {
+            "x": 68,
+            "y": 742
+          },
+          {
+            "x": 142,
+            "y": 742
+          },
+          {
+            "x": 142,
+            "y": 753
+          },
+          {
+            "x": 68,
+            "y": 753
+          }
+        ],
+        "words": [
+          {
+            "text": "FRUITS",
+            "boundingPolygon": [
+              {
+                "x": 69,
+                "y": 742
+              },
+              {
+                "x": 92,
+                "y": 742
+              },
+              {
+                "x": 91,
+                "y": 753
+              },
+              {
+                "x": 69,
+                "y": 754
+              }
+            ],
+            "confidence": 0.905
+          },
+          {
+            "text": "/",
+            "boundingPolygon": [
+              {
+                "x": 94,
+                "y": 742
+              },
+              {
+                "x": 97,
+                "y": 742
+              },
+              {
+                "x": 97,
+                "y": 753
+              },
+              {
+                "x": 93,
+                "y": 753
+              }
+            ],
+            "confidence": 0.959
+          },
+          {
+            "text": "VEGETABLES",
+            "boundingPolygon": [
+              {
+                "x": 99,
+                "y": 742
+              },
+              {
+                "x": 143,
+                "y": 743
+              },
+              {
+                "x": 143,
+                "y": 753
+              },
+              {
+                "x": 99,
+                "y": 753
+              }
+            ],
+            "confidence": 0.961
+          }
+        ]
+      },
+      {
+        "text": "GRAIN PRODUCTS",
+        "boundingPolygon": [
+          {
+            "x": 196,
+            "y": 742
+          },
+          {
+            "x": 256,
+            "y": 742
+          },
+          {
+            "x": 256,
+            "y": 753
+          },
+          {
+            "x": 196,
+            "y": 753
+          }
+        ],
+        "words": [
+          {
+            "text": "GRAIN",
+            "boundingPolygon": [
+              {
+                "x": 198,
+                "y": 742
+              },
+              {
+                "x": 218,
+                "y": 743
+              },
+              {
+                "x": 218,
+                "y": 753
+              },
+              {
+                "x": 198,
+                "y": 753
+              }
+            ],
+            "confidence": 0.953
+          },
+          {
+            "text": "PRODUCTS",
+            "boundingPolygon": [
+              {
+                "x": 220,
+                "y": 743
+              },
+              {
+                "x": 256,
+                "y": 743
+              },
+              {
+                "x": 256,
+                "y": 753
+              },
+              {
+                "x": 220,
+                "y": 753
+              }
+            ],
+            "confidence": 0.414
+          }
+        ]
+      },
+      {
+        "text": "MILK & ALTERNATIVES",
+        "boundingPolygon": [
+          {
+            "x": 304,
+            "y": 742
+          },
+          {
+            "x": 378,
+            "y": 742
+          },
+          {
+            "x": 378,
+            "y": 753
+          },
+          {
+            "x": 304,
+            "y": 753
+          }
+        ],
+        "words": [
+          {
+            "text": "MILK",
+            "boundingPolygon": [
+              {
+                "x": 305,
+                "y": 743
+              },
+              {
+                "x": 320,
+                "y": 743
+              },
+              {
+                "x": 320,
+                "y": 753
+              },
+              {
+                "x": 304,
+                "y": 754
+              }
+            ],
+            "confidence": 0.923
+          },
+          {
+            "text": "&",
+            "boundingPolygon": [
+              {
+                "x": 322,
+                "y": 743
+              },
+              {
+                "x": 326,
+                "y": 743
+              },
+              {
+                "x": 326,
+                "y": 753
+              },
+              {
+                "x": 322,
+                "y": 753
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "ALTERNATIVES",
+            "boundingPolygon": [
+              {
+                "x": 328,
+                "y": 742
+              },
+              {
+                "x": 378,
+                "y": 742
+              },
+              {
+                "x": 378,
+                "y": 753
+              },
+              {
+                "x": 328,
+                "y": 753
+              }
+            ],
+            "confidence": 0.975
+          }
+        ]
+      },
+      {
+        "text": "MEAT & ALTERNATIVES",
+        "boundingPolygon": [
+          {
+            "x": 423,
+            "y": 742
+          },
+          {
+            "x": 501,
+            "y": 742
+          },
+          {
+            "x": 501,
+            "y": 753
+          },
+          {
+            "x": 423,
+            "y": 753
+          }
+        ],
+        "words": [
+          {
+            "text": "MEAT",
+            "boundingPolygon": [
+              {
+                "x": 425,
+                "y": 743
+              },
+              {
+                "x": 443,
+                "y": 743
+              },
+              {
+                "x": 443,
+                "y": 753
+              },
+              {
+                "x": 425,
+                "y": 753
+              }
+            ],
+            "confidence": 0.988
+          },
+          {
+            "text": "&",
+            "boundingPolygon": [
+              {
+                "x": 445,
+                "y": 743
+              },
+              {
+                "x": 450,
+                "y": 743
+              },
+              {
+                "x": 450,
+                "y": 753
+              },
+              {
+                "x": 445,
+                "y": 753
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "ALTERNATIVES",
+            "boundingPolygon": [
+              {
+                "x": 452,
+                "y": 743
+              },
+              {
+                "x": 501,
+                "y": 742
+              },
+              {
+                "x": 501,
+                "y": 754
+              },
+              {
+                "x": 452,
+                "y": 753
+              }
+            ],
+            "confidence": 0.951
+          }
+        ]
+      },
+      {
+        "text": "STAYING HYDRATED IS IMPORTANT!",
+        "boundingPolygon": [
+          {
+            "x": 50,
+            "y": 778
+          },
+          {
+            "x": 510,
+            "y": 778
+          },
+          {
+            "x": 510,
+            "y": 807
+          },
+          {
+            "x": 50,
+            "y": 807
+          }
+        ],
+        "words": [
+          {
+            "text": "STAYING",
+            "boundingPolygon": [
+              {
+                "x": 50,
+                "y": 780
+              },
+              {
+                "x": 157,
+                "y": 779
+              },
+              {
+                "x": 157,
+                "y": 807
+              },
+              {
+                "x": 51,
+                "y": 806
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "HYDRATED",
+            "boundingPolygon": [
+              {
+                "x": 169,
+                "y": 779
+              },
+              {
+                "x": 302,
+                "y": 778
+              },
+              {
+                "x": 302,
+                "y": 808
+              },
+              {
+                "x": 169,
+                "y": 807
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "IS",
+            "boundingPolygon": [
+              {
+                "x": 313,
+                "y": 778
+              },
+              {
+                "x": 341,
+                "y": 778
+              },
+              {
+                "x": 341,
+                "y": 808
+              },
+              {
+                "x": 313,
+                "y": 808
+              }
+            ],
+            "confidence": 0.996
+          },
+          {
+            "text": "IMPORTANT!",
+            "boundingPolygon": [
+              {
+                "x": 349,
+                "y": 778
+              },
+              {
+                "x": 511,
+                "y": 779
+              },
+              {
+                "x": 510,
+                "y": 806
+              },
+              {
+                "x": 349,
+                "y": 808
+              }
+            ],
+            "confidence": 0.993
+          }
+        ]
+      },
+      {
+        "text": "USE THE COLOR OF YOUR URINE AS A REFERENCE TO MAKE SURE THAT YOU ARE STAYING PROPERLY HYDRATED",
+        "boundingPolygon": [
+          {
+            "x": 132,
+            "y": 815
+          },
+          {
+            "x": 517,
+            "y": 815
+          },
+          {
+            "x": 517,
+            "y": 827
+          },
+          {
+            "x": 132,
+            "y": 827
+          }
+        ],
+        "words": [
+          {
+            "text": "USE",
+            "boundingPolygon": [
+              {
+                "x": 133,
+                "y": 815
+              },
+              {
+                "x": 145,
+                "y": 815
+              },
+              {
+                "x": 145,
+                "y": 828
+              },
+              {
+                "x": 132,
+                "y": 828
+              }
+            ],
+            "confidence": 0.995
+          },
+          {
+            "text": "THE",
+            "boundingPolygon": [
+              {
+                "x": 148,
+                "y": 815
+              },
+              {
+                "x": 160,
+                "y": 815
+              },
+              {
+                "x": 160,
+                "y": 828
+              },
+              {
+                "x": 147,
+                "y": 828
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "COLOR",
+            "boundingPolygon": [
+              {
+                "x": 163,
+                "y": 815
+              },
+              {
+                "x": 185,
+                "y": 815
+              },
+              {
+                "x": 185,
+                "y": 828
+              },
+              {
+                "x": 162,
+                "y": 828
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "OF",
+            "boundingPolygon": [
+              {
+                "x": 188,
+                "y": 815
+              },
+              {
+                "x": 196,
+                "y": 815
+              },
+              {
+                "x": 196,
+                "y": 828
+              },
+              {
+                "x": 187,
+                "y": 828
+              }
+            ],
+            "confidence": 0.995
+          },
+          {
+            "text": "YOUR",
+            "boundingPolygon": [
+              {
+                "x": 199,
+                "y": 815
+              },
+              {
+                "x": 217,
+                "y": 815
+              },
+              {
+                "x": 217,
+                "y": 828
+              },
+              {
+                "x": 198,
+                "y": 828
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "URINE",
+            "boundingPolygon": [
+              {
+                "x": 220,
+                "y": 815
+              },
+              {
+                "x": 240,
+                "y": 815
+              },
+              {
+                "x": 240,
+                "y": 828
+              },
+              {
+                "x": 219,
+                "y": 828
+              }
+            ],
+            "confidence": 0.981
+          },
+          {
+            "text": "AS",
+            "boundingPolygon": [
+              {
+                "x": 243,
+                "y": 815
+              },
+              {
+                "x": 252,
+                "y": 815
+              },
+              {
+                "x": 252,
+                "y": 828
+              },
+              {
+                "x": 242,
+                "y": 828
+              }
+            ],
+            "confidence": 0.989
+          },
+          {
+            "text": "A",
+            "boundingPolygon": [
+              {
+                "x": 254,
+                "y": 815
+              },
+              {
+                "x": 259,
+                "y": 815
+              },
+              {
+                "x": 258,
+                "y": 828
+              },
+              {
+                "x": 254,
+                "y": 828
+              }
+            ],
+            "confidence": 0.969
+          },
+          {
+            "text": "REFERENCE",
+            "boundingPolygon": [
+              {
+                "x": 261,
+                "y": 815
+              },
+              {
+                "x": 302,
+                "y": 815
+              },
+              {
+                "x": 302,
+                "y": 828
+              },
+              {
+                "x": 261,
+                "y": 828
+              }
+            ],
+            "confidence": 0.983
+          },
+          {
+            "text": "TO",
+            "boundingPolygon": [
+              {
+                "x": 304,
+                "y": 815
+              },
+              {
+                "x": 312,
+                "y": 815
+              },
+              {
+                "x": 312,
+                "y": 828
+              },
+              {
+                "x": 304,
+                "y": 828
+              }
+            ],
+            "confidence": 0.99
+          },
+          {
+            "text": "MAKE",
+            "boundingPolygon": [
+              {
+                "x": 314,
+                "y": 815
+              },
+              {
+                "x": 335,
+                "y": 815
+              },
+              {
+                "x": 335,
+                "y": 828
+              },
+              {
+                "x": 314,
+                "y": 828
+              }
+            ],
+            "confidence": 0.989
+          },
+          {
+            "text": "SURE",
+            "boundingPolygon": [
+              {
+                "x": 338,
+                "y": 815
+              },
+              {
+                "x": 355,
+                "y": 815
+              },
+              {
+                "x": 355,
+                "y": 828
+              },
+              {
+                "x": 337,
+                "y": 828
+              }
+            ],
+            "confidence": 0.982
+          },
+          {
+            "text": "THAT",
+            "boundingPolygon": [
+              {
+                "x": 358,
+                "y": 815
+              },
+              {
+                "x": 375,
+                "y": 815
+              },
+              {
+                "x": 375,
+                "y": 828
+              },
+              {
+                "x": 357,
+                "y": 828
+              }
+            ],
+            "confidence": 0.99
+          },
+          {
+            "text": "YOU",
+            "boundingPolygon": [
+              {
+                "x": 378,
+                "y": 815
+              },
+              {
+                "x": 391,
+                "y": 815
+              },
+              {
+                "x": 391,
+                "y": 828
+              },
+              {
+                "x": 377,
+                "y": 828
+              }
+            ],
+            "confidence": 0.997
+          },
+          {
+            "text": "ARE",
+            "boundingPolygon": [
+              {
+                "x": 393,
+                "y": 815
+              },
+              {
+                "x": 407,
+                "y": 815
+              },
+              {
+                "x": 407,
+                "y": 828
+              },
+              {
+                "x": 393,
+                "y": 828
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "STAYING",
+            "boundingPolygon": [
+              {
+                "x": 409,
+                "y": 815
+              },
+              {
+                "x": 438,
+                "y": 815
+              },
+              {
+                "x": 438,
+                "y": 828
+              },
+              {
+                "x": 409,
+                "y": 828
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "PROPERLY",
+            "boundingPolygon": [
+              {
+                "x": 440,
+                "y": 815
+              },
+              {
+                "x": 475,
+                "y": 815
+              },
+              {
+                "x": 475,
+                "y": 828
+              },
+              {
+                "x": 440,
+                "y": 828
+              }
+            ],
+            "confidence": 0.986
+          },
+          {
+            "text": "HYDRATED",
+            "boundingPolygon": [
+              {
+                "x": 478,
+                "y": 815
+              },
+              {
+                "x": 517,
+                "y": 815
+              },
+              {
+                "x": 517,
+                "y": 828
+              },
+              {
+                "x": 478,
+                "y": 828
+              }
+            ],
+            "confidence": 0.876
+          }
+        ]
+      },
+      {
+        "text": "HYDRATED",
+        "boundingPolygon": [
+          {
+            "x": 179,
+            "y": 860
+          },
+          {
+            "x": 222,
+            "y": 861
+          },
+          {
+            "x": 222,
+            "y": 874
+          },
+          {
+            "x": 179,
+            "y": 873
+          }
+        ],
+        "words": [
+          {
+            "text": "HYDRATED",
+            "boundingPolygon": [
+              {
+                "x": 180,
+                "y": 861
+              },
+              {
+                "x": 222,
+                "y": 862
+              },
+              {
+                "x": 222,
+                "y": 874
+              },
+              {
+                "x": 179,
+                "y": 874
+              }
+            ],
+            "confidence": 0.993
+          }
+        ]
+      },
+      {
+        "text": "DEHYDRATED",
+        "boundingPolygon": [
+          {
+            "x": 321,
+            "y": 861
+          },
+          {
+            "x": 373,
+            "y": 861
+          },
+          {
+            "x": 373,
+            "y": 874
+          },
+          {
+            "x": 321,
+            "y": 873
+          }
+        ],
+        "words": [
+          {
+            "text": "DEHYDRATED",
+            "boundingPolygon": [
+              {
+                "x": 321,
+                "y": 861
+              },
+              {
+                "x": 374,
+                "y": 862
+              },
+              {
+                "x": 374,
+                "y": 874
+              },
+              {
+                "x": 321,
+                "y": 874
+              }
+            ],
+            "confidence": 0.993
+          }
+        ]
+      },
+      {
+        "text": "SEVERELY DEHYDRATED",
+        "boundingPolygon": [
+          {
+            "x": 425,
+            "y": 860
+          },
+          {
+            "x": 517,
+            "y": 860
+          },
+          {
+            "x": 517,
+            "y": 873
+          },
+          {
+            "x": 425,
+            "y": 873
+          }
+        ],
+        "words": [
+          {
+            "text": "SEVERELY",
+            "boundingPolygon": [
+              {
+                "x": 426,
+                "y": 861
+              },
+              {
+                "x": 463,
+                "y": 861
+              },
+              {
+                "x": 463,
+                "y": 874
+              },
+              {
+                "x": 426,
+                "y": 874
+              }
+            ],
+            "confidence": 0.992
+          },
+          {
+            "text": "DEHYDRATED",
+            "boundingPolygon": [
+              {
+                "x": 466,
+                "y": 861
+              },
+              {
+                "x": 517,
+                "y": 861
+              },
+              {
+                "x": 517,
+                "y": 874
+              },
+              {
+                "x": 466,
+                "y": 874
+              }
+            ],
+            "confidence": 0.962
+          }
+        ]
+      },
+      {
+        "text": "The PhysicalEducator.com",
+        "boundingPolygon": [
+          {
+            "x": 220,
+            "y": 891
+          },
+          {
+            "x": 369,
+            "y": 892
+          },
+          {
+            "x": 369,
+            "y": 908
+          },
+          {
+            "x": 220,
+            "y": 907
+          }
+        ],
+        "words": [
+          {
+            "text": "The",
+            "boundingPolygon": [
+              {
+                "x": 221,
+                "y": 892
+              },
+              {
+                "x": 238,
+                "y": 892
+              },
+              {
+                "x": 237,
+                "y": 907
+              },
+              {
+                "x": 221,
+                "y": 907
+              }
+            ],
+            "confidence": 0.999
+          },
+          {
+            "text": "PhysicalEducator.com",
+            "boundingPolygon": [
+              {
+                "x": 241,
+                "y": 892
+              },
+              {
+                "x": 364,
+                "y": 893
+              },
+              {
+                "x": 363,
+                "y": 908
+              },
+              {
+                "x": 240,
+                "y": 907
+              }
+            ],
+            "confidence": 0.98
+          }
+        ]
+      },
+      {
+        "text": "Rethinking What Can Be Done In Physical Education",
+        "boundingPolygon": [
+          {
+            "x": 224,
+            "y": 905
+          },
+          {
+            "x": 366,
+            "y": 906
+          },
+          {
+            "x": 366,
+            "y": 915
+          },
+          {
+            "x": 224,
+            "y": 914
+          }
+        ],
+        "words": [
+          {
+            "text": "Rethinking",
+            "boundingPolygon": [
+              {
+                "x": 226,
+                "y": 906
+              },
+              {
+                "x": 256,
+                "y": 906
+              },
+              {
+                "x": 256,
+                "y": 915
+              },
+              {
+                "x": 226,
+                "y": 915
+              }
+            ],
+            "confidence": 0.668
+          },
+          {
+            "text": "What",
+            "boundingPolygon": [
+              {
+                "x": 257,
+                "y": 906
+              },
+              {
+                "x": 271,
+                "y": 906
+              },
+              {
+                "x": 271,
+                "y": 915
+              },
+              {
+                "x": 258,
+                "y": 915
+              }
+            ],
+            "confidence": 0.572
+          },
+          {
+            "text": "Can",
+            "boundingPolygon": [
+              {
+                "x": 273,
+                "y": 906
+              },
+              {
+                "x": 283,
+                "y": 906
+              },
+              {
+                "x": 283,
+                "y": 915
+              },
+              {
+                "x": 273,
+                "y": 915
+              }
+            ],
+            "confidence": 0.763
+          },
+          {
+            "text": "Be",
+            "boundingPolygon": [
+              {
+                "x": 284,
+                "y": 906
+              },
+              {
+                "x": 291,
+                "y": 906
+              },
+              {
+                "x": 291,
+                "y": 915
+              },
+              {
+                "x": 285,
+                "y": 915
+              }
+            ],
+            "confidence": 0.801
+          },
+          {
+            "text": "Done",
+            "boundingPolygon": [
+              {
+                "x": 293,
+                "y": 906
+              },
+              {
+                "x": 306,
+                "y": 906
+              },
+              {
+                "x": 306,
+                "y": 915
+              },
+              {
+                "x": 293,
+                "y": 915
+              }
+            ],
+            "confidence": 0.608
+          },
+          {
+            "text": "In",
+            "boundingPolygon": [
+              {
+                "x": 308,
+                "y": 906
+              },
+              {
+                "x": 314,
+                "y": 906
+              },
+              {
+                "x": 314,
+                "y": 915
+              },
+              {
+                "x": 307,
+                "y": 915
+              }
+            ],
+            "confidence": 0.966
+          },
+          {
+            "text": "Physical",
+            "boundingPolygon": [
+              {
+                "x": 315,
+                "y": 906
+              },
+              {
+                "x": 336,
+                "y": 906
+              },
+              {
+                "x": 336,
+                "y": 915
+              },
+              {
+                "x": 315,
+                "y": 915
+              }
+            ],
+            "confidence": 0.255
+          },
+          {
+            "text": "Education",
+            "boundingPolygon": [
+              {
+                "x": 338,
+                "y": 907
+              },
+              {
+                "x": 365,
+                "y": 907
+              },
+              {
+                "x": 365,
+                "y": 915
+              },
+              {
+                "x": 338,
+                "y": 915
+              }
+            ],
+            "confidence": 0.21
+          }
+        ]
+      }
+    ]
+  }
+]
