@@ -1,0 +1,851 @@
+Texto
+
+MUVON
+CUM
+IMIPERSEVEDRUSAUARY
+REVERT
+CACEVEBINOTE
+VATUTH
+INCREASESHUTH
+INCREASEDYOUMSTELH
+SCCBACE
+SYRENOS
+STRESS
+REXTININOFLLECHISTY,OUVIIGEN
+AMONALATDIING
+
+JSON
+
+
+  {
+    "lines": [
+      {
+        "text": "MUVON",
+        "boundingPolygon": [
+          {
+            "x": 295,
+            "y": 105
+          },
+          {
+            "x": 355,
+            "y": 87
+          },
+          {
+            "x": 360,
+            "y": 102
+          },
+          {
+            "x": 297,
+            "y": 120
+          }
+        ],
+        "words": [
+          {
+            "text": "MUVON",
+            "boundingPolygon": [
+              {
+                "x": 295,
+                "y": 105
+              },
+              {
+                "x": 350,
+                "y": 90
+              },
+              {
+                "x": 353,
+                "y": 105
+              },
+              {
+                "x": 298,
+                "y": 121
+              }
+            ],
+            "confidence": 0.67
+          }
+        ]
+      },
+      {
+        "text": "CUM",
+        "boundingPolygon": [
+          {
+            "x": 171,
+            "y": 506
+          },
+          {
+            "x": 232,
+            "y": 489
+          },
+          {
+            "x": 238,
+            "y": 507
+          },
+          {
+            "x": 175,
+            "y": 525
+          }
+        ],
+        "words": [
+          {
+            "text": "CUM",
+            "boundingPolygon": [
+              {
+                "x": 177,
+                "y": 505
+              },
+              {
+                "x": 219,
+                "y": 493
+              },
+              {
+                "x": 226,
+                "y": 511
+              },
+              {
+                "x": 181,
+                "y": 524
+              }
+            ],
+            "confidence": 0.221
+          }
+        ]
+      },
+      {
+        "text": "IMIPERSEVEDRUSAUARY",
+        "boundingPolygon": [
+          {
+            "x": 213,
+            "y": 713
+          },
+          {
+            "x": 518,
+            "y": 620
+          },
+          {
+            "x": 523,
+            "y": 641
+          },
+          {
+            "x": 217,
+            "y": 735
+          }
+        ],
+        "words": [
+          {
+            "text": "IMIPERSEVEDRUSAUARY",
+            "boundingPolygon": [
+              {
+                "x": 213,
+                "y": 713
+              },
+              {
+                "x": 516,
+                "y": 621
+              },
+              {
+                "x": 520,
+                "y": 644
+              },
+              {
+                "x": 217,
+                "y": 736
+              }
+            ],
+            "confidence": 0.973
+          }
+        ]
+      },
+      {
+        "text": "REVERT",
+        "boundingPolygon": [
+          {
+            "x": 605,
+            "y": 591
+          },
+          {
+            "x": 700,
+            "y": 562
+          },
+          {
+            "x": 707,
+            "y": 583
+          },
+          {
+            "x": 611,
+            "y": 613
+          }
+        ],
+        "words": [
+          {
+            "text": "REVERT",
+            "boundingPolygon": [
+              {
+                "x": 607,
+                "y": 591
+              },
+              {
+                "x": 699,
+                "y": 563
+              },
+              {
+                "x": 706,
+                "y": 583
+              },
+              {
+                "x": 613,
+                "y": 613
+              }
+            ],
+            "confidence": 0.758
+          }
+        ]
+      },
+      {
+        "text": "CACEVEBINO TE",
+        "boundingPolygon": [
+          {
+            "x": 219,
+            "y": 745
+          },
+          {
+            "x": 418,
+            "y": 684
+          },
+          {
+            "x": 424,
+            "y": 705
+          },
+          {
+            "x": 226,
+            "y": 768
+          }
+        ],
+        "words": [
+          {
+            "text": "CACEVEBINO",
+            "boundingPolygon": [
+              {
+                "x": 223,
+                "y": 745
+              },
+              {
+                "x": 382,
+                "y": 695
+              },
+              {
+                "x": 387,
+                "y": 715
+              },
+              {
+                "x": 232,
+                "y": 768
+              }
+            ],
+            "confidence": 0.811
+          },
+          {
+            "text": "TE",
+            "boundingPolygon": [
+              {
+                "x": 392,
+                "y": 692
+              },
+              {
+                "x": 418,
+                "y": 685
+              },
+              {
+                "x": 423,
+                "y": 705
+              },
+              {
+                "x": 397,
+                "y": 712
+              }
+            ],
+            "confidence": 0.924
+          }
+        ]
+      },
+      {
+        "text": "V ATUTH",
+        "boundingPolygon": [
+          {
+            "x": 902,
+            "y": 552
+          },
+          {
+            "x": 1004,
+            "y": 518
+          },
+          {
+            "x": 1010,
+            "y": 538
+          },
+          {
+            "x": 908,
+            "y": 571
+          }
+        ],
+        "words": [
+          {
+            "text": "V",
+            "boundingPolygon": [
+              {
+                "x": 902,
+                "y": 552
+              },
+              {
+                "x": 911,
+                "y": 550
+              },
+              {
+                "x": 916,
+                "y": 568
+              },
+              {
+                "x": 908,
+                "y": 571
+              }
+            ],
+            "confidence": 0.284
+          },
+          {
+            "text": "ATUTH",
+            "boundingPolygon": [
+              {
+                "x": 926,
+                "y": 546
+              },
+              {
+                "x": 995,
+                "y": 523
+              },
+              {
+                "x": 1000,
+                "y": 542
+              },
+              {
+                "x": 932,
+                "y": 565
+              }
+            ],
+            "confidence": 0.906
+          }
+        ]
+      },
+      {
+        "text": "INCREASESHUTH",
+        "boundingPolygon": [
+          {
+            "x": 267,
+            "y": 874
+          },
+          {
+            "x": 493,
+            "y": 800
+          },
+          {
+            "x": 501,
+            "y": 823
+          },
+          {
+            "x": 273,
+            "y": 897
+          }
+        ],
+        "words": [
+          {
+            "text": "INCREASESHUTH",
+            "boundingPolygon": [
+              {
+                "x": 268,
+                "y": 873
+              },
+              {
+                "x": 484,
+                "y": 803
+              },
+              {
+                "x": 494,
+                "y": 827
+              },
+              {
+                "x": 274,
+                "y": 898
+              }
+            ],
+            "confidence": 0.04
+          }
+        ]
+      },
+      {
+        "text": "INCREASED YOUM STELH",
+        "boundingPolygon": [
+          {
+            "x": 281,
+            "y": 917
+          },
+          {
+            "x": 626,
+            "y": 807
+          },
+          {
+            "x": 633,
+            "y": 828
+          },
+          {
+            "x": 288,
+            "y": 939
+          }
+        ],
+        "words": [
+          {
+            "text": "INCREASED",
+            "boundingPolygon": [
+              {
+                "x": 286,
+                "y": 917
+              },
+              {
+                "x": 434,
+                "y": 869
+              },
+              {
+                "x": 442,
+                "y": 890
+              },
+              {
+                "x": 295,
+                "y": 938
+              }
+            ],
+            "confidence": 0.63
+          },
+          {
+            "text": "YOUM",
+            "boundingPolygon": [
+              {
+                "x": 454,
+                "y": 862
+              },
+              {
+                "x": 517,
+                "y": 842
+              },
+              {
+                "x": 525,
+                "y": 863
+              },
+              {
+                "x": 462,
+                "y": 883
+              }
+            ],
+            "confidence": 0.992
+          },
+          {
+            "text": "STELH",
+            "boundingPolygon": [
+              {
+                "x": 540,
+                "y": 835
+              },
+              {
+                "x": 614,
+                "y": 812
+              },
+              {
+                "x": 621,
+                "y": 832
+              },
+              {
+                "x": 547,
+                "y": 856
+              }
+            ],
+            "confidence": 0.938
+          }
+        ]
+      },
+      {
+        "text": "SCCBACE",
+        "boundingPolygon": [
+          {
+            "x": 795,
+            "y": 757
+          },
+          {
+            "x": 907,
+            "y": 720
+          },
+          {
+            "x": 914,
+            "y": 739
+          },
+          {
+            "x": 802,
+            "y": 777
+          }
+        ],
+        "words": [
+          {
+            "text": "SCCBACE",
+            "boundingPolygon": [
+              {
+                "x": 798,
+                "y": 757
+              },
+              {
+                "x": 903,
+                "y": 721
+              },
+              {
+                "x": 909,
+                "y": 742
+              },
+              {
+                "x": 805,
+                "y": 777
+              }
+            ],
+            "confidence": 0.865
+          }
+        ]
+      },
+      {
+        "text": "SYRE NOS",
+        "boundingPolygon": [
+          {
+            "x": 437,
+            "y": 916
+          },
+          {
+            "x": 572,
+            "y": 869
+          },
+          {
+            "x": 579,
+            "y": 891
+          },
+          {
+            "x": 443,
+            "y": 938
+          }
+        ],
+        "words": [
+          {
+            "text": "SYRE",
+            "boundingPolygon": [
+              {
+                "x": 440,
+                "y": 916
+              },
+              {
+                "x": 505,
+                "y": 894
+              },
+              {
+                "x": 511,
+                "y": 916
+              },
+              {
+                "x": 446,
+                "y": 937
+              }
+            ],
+            "confidence": 0.671
+          },
+          {
+            "text": "NOS",
+            "boundingPolygon": [
+              {
+                "x": 515,
+                "y": 891
+              },
+              {
+                "x": 566,
+                "y": 872
+              },
+              {
+                "x": 574,
+                "y": 894
+              },
+              {
+                "x": 522,
+                "y": 912
+              }
+            ],
+            "confidence": 0.474
+          }
+        ]
+      },
+      {
+        "text": "STRESS",
+        "boundingPolygon": [
+          {
+            "x": 819,
+            "y": 791
+          },
+          {
+            "x": 925,
+            "y": 753
+          },
+          {
+            "x": 933,
+            "y": 775
+          },
+          {
+            "x": 825,
+            "y": 813
+          }
+        ],
+        "words": [
+          {
+            "text": "STRESS",
+            "boundingPolygon": [
+              {
+                "x": 824,
+                "y": 790
+              },
+              {
+                "x": 921,
+                "y": 755
+              },
+              {
+                "x": 930,
+                "y": 777
+              },
+              {
+                "x": 829,
+                "y": 811
+              }
+            ],
+            "confidence": 0.651
+          }
+        ]
+      },
+      {
+        "text": "REXTININ OF LLECHISTY, OUVIIGEN",
+        "boundingPolygon": [
+          {
+            "x": 312,
+            "y": 988
+          },
+          {
+            "x": 637,
+            "y": 883
+          },
+          {
+            "x": 643,
+            "y": 901
+          },
+          {
+            "x": 317,
+            "y": 1007
+          }
+        ],
+        "words": [
+          {
+            "text": "REXTININ",
+            "boundingPolygon": [
+              {
+                "x": 313,
+                "y": 988
+              },
+              {
+                "x": 393,
+                "y": 962
+              },
+              {
+                "x": 398,
+                "y": 981
+              },
+              {
+                "x": 318,
+                "y": 1007
+              }
+            ],
+            "confidence": 0.657
+          },
+          {
+            "text": "OF",
+            "boundingPolygon": [
+              {
+                "x": 410,
+                "y": 957
+              },
+              {
+                "x": 433,
+                "y": 949
+              },
+              {
+                "x": 438,
+                "y": 968
+              },
+              {
+                "x": 415,
+                "y": 976
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "LLECHISTY,",
+            "boundingPolygon": [
+              {
+                "x": 437,
+                "y": 948
+              },
+              {
+                "x": 540,
+                "y": 915
+              },
+              {
+                "x": 546,
+                "y": 934
+              },
+              {
+                "x": 442,
+                "y": 967
+              }
+            ],
+            "confidence": 0.693
+          },
+          {
+            "text": "OUVIIGEN",
+            "boundingPolygon": [
+              {
+                "x": 544,
+                "y": 914
+              },
+              {
+                "x": 634,
+                "y": 884
+              },
+              {
+                "x": 639,
+                "y": 904
+              },
+              {
+                "x": 549,
+                "y": 933
+              }
+            ],
+            "confidence": 0.585
+          }
+        ]
+      },
+      {
+        "text": "A MONAL AT DIING",
+        "boundingPolygon": [
+          {
+            "x": 833,
+            "y": 821
+          },
+          {
+            "x": 1001,
+            "y": 762
+          },
+          {
+            "x": 1007,
+            "y": 780
+          },
+          {
+            "x": 837,
+            "y": 839
+          }
+        ],
+        "words": [
+          {
+            "text": "A",
+            "boundingPolygon": [
+              {
+                "x": 834,
+                "y": 821
+              },
+              {
+                "x": 844,
+                "y": 818
+              },
+              {
+                "x": 847,
+                "y": 835
+              },
+              {
+                "x": 837,
+                "y": 839
+              }
+            ],
+            "confidence": 0.958
+          },
+          {
+            "text": "MONAL",
+            "boundingPolygon": [
+              {
+                "x": 854,
+                "y": 814
+              },
+              {
+                "x": 917,
+                "y": 792
+              },
+              {
+                "x": 921,
+                "y": 810
+              },
+              {
+                "x": 858,
+                "y": 831
+              }
+            ],
+            "confidence": 0.614
+          },
+          {
+            "text": "AT",
+            "boundingPolygon": [
+              {
+                "x": 924,
+                "y": 789
+              },
+              {
+                "x": 945,
+                "y": 782
+              },
+              {
+                "x": 949,
+                "y": 800
+              },
+              {
+                "x": 928,
+                "y": 808
+              }
+            ],
+            "confidence": 0.949
+          },
+          {
+            "text": "DIING",
+            "boundingPolygon": [
+              {
+                "x": 949,
+                "y": 781
+              },
+              {
+                "x": 1000,
+                "y": 763
+              },
+              {
+                "x": 1005,
+                "y": 782
+              },
+              {
+                "x": 954,
+                "y": 799
+              }
+            ],
+            "confidence": 0.734
+          }
+        ]
+      }
+    ]
+  }
+]
